@@ -17,7 +17,7 @@ For this class, you will use the minimal framework provided with each assignment
 
 You must install a C++ compiler: `gcc/clang` on Linux, `clang` on Mac, [Visual Studio](https://www.visualstudio.com/) on Windows. If you are looking for an IDE to develop in C++, we recommend [Visual Studio Code](https://code.visualstudio.com) on Mac/Linux, and [Visual Studio](https://www.visualstudio.com/) on Windows.
 
-### Compiling the Sample Projects
+### Compiling the Sample Projects (Unix)
 
 We will provide a folder for each assignment with some sample code to get you started. For each assignment, you will need to do the following (on **Windows** you can simply use visual studio):
 
