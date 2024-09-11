@@ -1,23 +1,25 @@
 # CSC 116 - Introduction to C++ - Fall 2024
 
 ### Course Instructor
+
 *Teseo Schneider*
 
 [http://web.uvic.ca/~teseo/](http://web.uvic.ca/~teseo/)
 
 [teseo@uvic.ca](mailto:teseo@uvic.ca)
 
-### Office Hours:
+### Office Hours
 
 by appointment
 
-### Lectures:
+### Lectures
+
 1:00pm - 12:20pm MR
 
 HHB 105
 
 
-### Exam:
+### Exam
 
 TBA
 
@@ -28,3 +30,4 @@ TBA
 ## Assignments
 
 [Rules](Rules.md)
+[Windows](Windows.md)
