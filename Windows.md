@@ -48,4 +48,35 @@ After compilation, a terminal should pop up with the program's output. The termi
 
 ![Output](img/out.png)
 
-To run any other code, simply copy-paste the code over the cpp file.
+
+## Running the class Examples
+
+To run any other code, copy-paste the code over the cpp file.
+
+Alternatively, you can drag and drop one of the cpp files into the `Source Files` project's directory.
+
+![Drag and drop](img/drag.png)
+
+By doing so, you should have your new file inside (you might need to expand the folder in Visual Studio)
+
+![New file](img/file.png)
+
+By pressing play, you will get an error since there are two files containing a `main`.
+
+![Error](img/error.png)
+
+In general, it is helpful to see the error panel; if you do not have it, you can open `View` and select `Error List`.
+
+![Error panel](img/oerror.png)
+
+To fix the error, right-click on the file you want to skip (in our case, `ConsoleApplication1.cpp`) and select `Exclude From Project`. This will exclude the file from the project but not delete it.
+
+![Exclude](img/exclude.png)
+
+If you want to add back an excluded project, right-click on the `Source Files` directory and select `Add > Existing Item...`.
+
+![Add back](img/add.png)
+
+This will open a menu where you can select the file you want to add.
+
+![Add file](img/addfile.png)
