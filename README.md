@@ -23,11 +23,14 @@ HHB 105
 
 TBA
 
-## Slides
-
 ## Codes
+
+[Codes](codes)
+
+[Solutions](codes/solutions)
 
 ## Assignments
 
 [Rules](Rules.md)
+
 [Windows](Windows.md)
