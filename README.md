@@ -34,3 +34,9 @@ TBA
 [Rules](Rules.md)
 
 [Windows](Windows.md)
+
+[Assignment 0](Assignment_0)
+
+## Labs
+
+[Lab 1](labs/lab_1.md)
