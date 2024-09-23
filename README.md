@@ -23,6 +23,14 @@ HHB 105
 
 TBA
 
+## Slides
+
+[Introduction](intro.pdf)
+
+[Rules](Rules.md)
+
+[Windows](Windows.md)
+
 ## Codes
 
 [Codes](codes)
@@ -31,12 +39,11 @@ TBA
 
 ## Assignments
 
-[Rules](Rules.md)
 
-[Windows](Windows.md)
-
-[Assignment 0](Assignment_0)
+[Assignment 0](Assignment_0)<br/>
+[Assignment 1](Assignment_1)<br/>
 
 ## Labs
 
-[Lab 1](labs/lab_1.md)
+[Lab 1](labs/lab_1.md)<br/>
+[Lab 2](labs/lab_2.md)
