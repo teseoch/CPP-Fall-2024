@@ -25,7 +25,7 @@ Your program program will reads words from standard input (the `std::cin` stream
 
 The input text must be acquired with the `std::cin` and consist of a series of words, arranged arbitrarily: there may be inconsistent spacing between words, there may be any number of words per line and any number of lines.
 For the purposes of this assignment, a word is any sequence of one or more non-whitespace characters.
-The program must continue reading words until `std::cin` will no longer read input (that is, until the end of the input stream is reached). **Do not** use any other method to detect the end of the input. You can signal the end of the input stream by pressing Ctrl-D at the beginning of a line.
+The program must continue reading words until `std::cin` will no longer read input (that is, until the end of the input stream is reached). **Do not** use any other method to detect the end of the input. You can signal the end of the input stream by pressing Ctrl-D (Ctrl-Z then enter on **Windows**) at the beginning of a line.
 
 ## Exercise 2, Storing (20pt)
 
