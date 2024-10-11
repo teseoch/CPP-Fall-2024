@@ -24,7 +24,7 @@ int G(int y)
 int main()
 {
 
-    int y{};
+    int y{999};
     y = G(6);
 
     std::cout << "y is " << y << std::endl;
