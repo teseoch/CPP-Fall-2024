@@ -1,0 +1,39 @@
+4,Swartz Bay,Fulford Harbour,2022,6,29,7,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,29,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,29,11,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,29,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,29,15,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,29,17,0,Skeena Queen,35,46
+4,Swartz Bay,Fulford Harbour,2022,6,29,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,29,21,0,Skeena Queen,35,32
+8,Horseshoe Bay,Bowen Island,2022,6,29,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,29,6,50,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,29,8,0,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,29,9,5,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,29,10,10,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,29,11,15,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,29,12,40,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,29,13,55,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,29,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,29,16,40,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,29,17,45,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,29,18,50,Queen of Capilano,20,50
+8,Horseshoe Bay,,2022,6,29,19,50,,,
+8,Horseshoe Bay,Bowen Island,2022,6,29,21,20,Queen of Capilano,20,15
+8,Horseshoe Bay,Bowen Island,2022,6,29,22,20,Queen of Capilano,20,26
+30,Duke Point,Tsawwassen,2022,6,29,5,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,29,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,29,7,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,29,7,45,Coastal Inspiration,120,117
+30,Duke Point,Tsawwassen,2022,6,29,10,15,Coastal Inspiration,120,121
+30,,Duke Point,,6,29,10,15,Coastal Renaissance,120,111
+30,Duke Point,Tsawwassen,2022,6,29,12,45,Coastal Renaissance,120,118
+30,Tsawwassen,Duke Point,2022,6,29,12,45,Coastal Inspiration,120,118
+30,Duke Point,Tsawwassen,2022,6,29,15,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,29,15,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,29,17,45,Coastal Renaissance,120,133
+30,Tsawwassen,Duke Point,2022,6,29,17,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,29,20,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,29,20,15,Coastal Renaissance,120,141
+30,Duke Point,Tsawwassen,2022,6,29,22,45,Coastal Renaissance,120,144
+30,Tsawwassen,Duke Point,2022,6,29,22,45,Coastal Inspiration,120,127

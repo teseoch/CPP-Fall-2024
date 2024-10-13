@@ -1,0 +1,48 @@
+1,Swartz Bay,Tsawwassen,2022,6,10,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,10,8,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,10,8,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,10,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,10,9,0,Spirit of Vancouver Island,95,97
+1,Swartz Bay,Tsawwassen,2022,6,10,10,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,10,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,10,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,10,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,10,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,10,13,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,14,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,15,0,Spirit of Vancouver Island,95,108
+1,Tsawwassen,Swartz Bay,2022,6,10,15,0,Spirit of British Columbia,95,101
+1,Swartz Bay,Tsawwassen,2022,6,10,16,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,10,17,0,Spirit of Vancouver Island,95,105
+1,Tsawwassen,Swartz Bay,2022,6,10,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,10,19,0,Spirit of Vancouver Island,95,110
+1,Tsawwassen,Swartz Bay,2022,6,10,19,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,20,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,21,0,Spirit of British Columbia,95,87
+1,Tsawwassen,Swartz Bay,2022,6,10,21,0,Spirit of Vancouver Island,95,111
+1,Tsawwassen,Swartz Bay,2022,6,10,22,0,Coastal Celebration,95,85
+2,Departure Bay,Horseshoe Bay,2022,6,10,6,15,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,10,6,15,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,10,8,25,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,10,8,25,Queen of Cowichan,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,10,9,30,Queen of Coquitlam,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,10,10,40,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,10,10,40,Queen of Oak Bay,100,122
+2,Horseshoe Bay,Departure Bay,2022,6,10,12,0,Queen of Coquitlam,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,10,13,0,Queen of Oak Bay,100,120
+.,Horseshoe Bay,Departure Bay,2022,6,10,13,0,Queen of Cowichan,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,10,15,20,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,10,15,fourty five minutes,Queen of Oak Bay,100,115
+2,Departure Bay,Horseshoe Bay,2022,6,10,15,50,Queen of Coquitlam,100,84
+2,Horseshoe Bay,Departure Bay,2022,6,10,17,40,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,10,17,55,Queen of Oak Bay,100,121
+2,Horseshoe Bay,Departure Bay,2022,6,10,19,30,Queen of Coquitlam,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,10,20,5,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,10,20,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,10,22,10,Queen of Oak Bay,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,10,22,10,Queen of Cowichan,100,104

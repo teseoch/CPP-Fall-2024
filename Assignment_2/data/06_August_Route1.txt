@@ -1,0 +1,912 @@
+1,Swartz Bay,Tsawwassen,2022,8,1,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,1,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,1,8,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,1,8,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,1,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,1,10,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,1,10,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,1,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,1,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,1,12,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,1,12,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,13,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,1,13,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,1,14,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,1,14,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,1,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,1,15,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,16,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,1,17,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,1,18,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,19,0,Spirit of Vancouver Island,95,106
+1,Tsawwassen,Swartz Bay,2022,8,1,19,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,1,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,1,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,8,1,21,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,1,22,0,Coastal Celebration,95,80
+1,Swartz Bay,Tsawwassen,2022,8,2,6,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,2,6,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,2,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,2,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,2,8,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,2,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,2,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,2,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,2,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,2,10,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,2,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,2,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,2,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,2,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,2,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,2,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,2,14,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,2,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,2,15,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,2,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,2,17,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,2,17,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,2,18,0,Coastal Celebration,95,106
+1,Swartz Bay,Tsawwassen,2022,8,2,19,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,2,19,0,Spirit of British Columbia,95,120
+1,Tsawwassen,Swartz Bay,2022,8,2,20,0,Coastal Celebration,95,104
+1,Swartz Bay,Tsawwassen,2022,8,2,21,0,Spirit of British Columbia,95,122
+1,Tsawwassen,Swartz Bay,2022,8,2,21,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,3,6,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,3,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,3,7,0,Spirit of Vancouver Island,95,84
+1,Tsawwassen,Swartz Bay,2022,8,3,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,3,8,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,3,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,3,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,3,9,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,3,10,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,3,10,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,8,3,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,3,11,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,3,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,3,12,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,3,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,3,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,3,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,3,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,3,15,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,3,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,3,17,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,3,17,0,Spirit of Vancouver Island,95,108
+1,Swartz Bay,Tsawwassen,2022,8,3,18,0,Coastal Celebration,95,112
+1,Swartz Bay,Tsawwassen,2022,8,3,19,0,Spirit of Vancouver Island,95,144
+1,Tsawwassen,Swartz Bay,2022,8,3,19,0,Spirit of British Columbia,95,130
+1,Tsawwassen,Swartz Bay,2022,8,3,20,0,Coastal Celebration,95,114
+1,Swartz Bay,Tsawwassen,2022,8,3,21,0,Spirit of British Columbia,95,134
+1,Tsawwassen,Swartz Bay,2022,8,3,21,0,Spirit of Vancouver Island,95,136
+1,Swartz Bay,Tsawwassen,2022,8,4,6,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,4,6,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,4,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,4,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,4,8,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,4,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,4,9,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,4,9,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,4,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,4,10,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,4,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,4,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,4,12,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,4,12,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,4,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,4,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,4,14,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,4,14,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,4,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,4,15,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,4,16,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,4,16,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,4,17,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,4,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,4,18,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,8,4,18,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,4,19,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,4,19,0,Spirit of British Columbia,95,166
+1,Swartz Bay,Tsawwassen,2022,8,4,20,0,Queen of New Westminster,95,78
+1,Tsawwassen,Swartz Bay,2022,8,4,20,0,Coastal Celebration,95,80
+1,Swartz Bay,Tsawwassen,2022,8,4,21,0,Spirit of British Columbia,95,160
+1,Tsawwassen,Swartz Bay,2022,8,4,21,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,5,6,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,5,6,0,Queen of New Westminster,95,100
+1,Swartz Bay,Tsawwassen,2022,8,5,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,5,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,5,8,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,8,5,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,5,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,5,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,5,10,0,Coastal Celebration,95,95
+1,Tsawwassen,Swartz Bay,2022,8,5,10,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,5,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,5,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,5,12,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,8,5,12,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,8,5,13,0,Spirit of British Columbia,95,99
+1,Tsawwassen,Swartz Bay,2022,8,5,13,0,Spirit of Vancouver Island,95,99
+1,Swartz Bay,Tsawwassen,2022,8,5,14,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,8,5,14,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,5,15,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,8,5,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,8,5,16,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,5,16,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,8,5,17,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,5,17,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,5,18,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,5,18,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,5,19,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,5,19,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,5,20,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,5,20,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,5,21,0,Spirit of British Columbia,95,87
+1,Tsawwassen,Swartz Bay,2022,8,5,21,0,Spirit of Vancouver Island,95,83
+1,Swartz Bay,Tsawwassen,2022,8,6,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,6,6,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,6,7,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,6,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,6,8,0,Queen of New Westminster,95,91
+1,Tsawwassen,Swartz Bay,2022,8,6,8,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,8,6,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,6,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,6,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,6,10,0,Queen of New Westminster,95,104
+1,Swartz Bay,Tsawwassen,2022,8,6,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,6,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,6,12,0,Queen of New Westminster,95,97
+1,Tsawwassen,Swartz Bay,2022,8,6,12,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,6,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,6,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,6,14,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,6,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,6,15,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,6,16,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,6,17,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,8,6,17,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,6,18,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,6,19,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,6,19,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,6,20,0,Coastal Celebration,95,83
+1,Swartz Bay,Tsawwassen,2022,8,6,21,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,6,21,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,7,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,7,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,7,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,7,9,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,8,7,9,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,7,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,7,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,7,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,7,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,7,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,7,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,7,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,7,14,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,7,14,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,7,15,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,7,15,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,8,7,16,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,7,16,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,7,17,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,7,17,0,Spirit of Vancouver Island,95,99
+1,Swartz Bay,Tsawwassen,2022,8,7,18,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,8,7,18,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,7,19,0,Spirit of Vancouver Island,95,101
+1,Tsawwassen,Swartz Bay,2022,8,7,19,0,Spirit of British Columbia,95,101
+1,Swartz Bay,Tsawwassen,2022,8,7,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,7,21,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,7,21,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,7,22,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,8,6,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,8,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,8,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,8,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,8,8,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,8,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,8,9,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,8,8,9,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,8,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,8,10,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,8,8,11,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,8,8,11,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,8,12,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,8,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,8,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,8,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,8,14,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,8,14,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,8,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,8,15,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,8,16,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,8,16,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,8,8,17,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,8,17,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,8,18,0,Coastal Celebration,95,110
+1,Tsawwassen,Swartz Bay,2022,8,8,18,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,8,8,19,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,8,19,0,Spirit of British Columbia,95,86
+1,Swartz Bay,Tsawwassen,2022,8,8,20,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,8,20,0,Coastal Celebration,95,104
+1,Swartz Bay,Tsawwassen,2022,8,8,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,8,8,21,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,9,6,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,8,9,6,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,9,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,9,7,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,8,9,8,0,Queen of New Westminster,95,87
+1,Tsawwassen,Swartz Bay,2022,8,9,8,0,Coastal Celebration,95,87
+1,Swartz Bay,Tsawwassen,2022,8,9,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,9,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,9,10,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,8,9,10,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,9,11,0,Spirit of Vancouver Island,95,91
+1,Tsawwassen,Swartz Bay,2022,8,9,11,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,9,12,0,Queen of New Westminster,95,99
+1,Tsawwassen,Swartz Bay,2022,8,9,12,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,8,9,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,9,13,0,Spirit of Vancouver Island,95,103
+1,Swartz Bay,Tsawwassen,2022,8,9,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,9,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,9,15,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,9,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,9,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,9,17,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,9,18,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,9,19,0,Spirit of Vancouver Island,95,93
+1,Tsawwassen,Swartz Bay,2022,8,9,19,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,9,20,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,9,21,0,Spirit of British Columbia,95,84
+1,Tsawwassen,Swartz Bay,2022,8,9,21,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,10,6,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,10,6,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,10,7,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,10,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,10,8,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,10,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,10,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,10,9,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,10,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,10,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,10,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,10,11,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,8,10,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,10,12,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,10,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,10,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,10,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,10,15,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,10,15,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,10,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,10,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,10,17,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,10,18,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,8,10,19,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,10,19,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,10,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,10,21,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,10,21,0,Spirit of Vancouver Island,95,84
+1,Swartz Bay,Tsawwassen,2022,8,11,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,11,6,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,11,7,0,Spirit of Vancouver Island,95,87
+1,Tsawwassen,Swartz Bay,2022,8,11,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,11,8,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,11,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,11,9,0,Spirit of British Columbia,95,91
+1,Tsawwassen,Swartz Bay,2022,8,11,9,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,11,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,11,10,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,8,11,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,11,11,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,11,12,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,11,12,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,8,11,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,11,13,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,11,14,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,8,11,14,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,11,15,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,11,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,11,16,0,Queen of New Westminster,95,98
+1,Tsawwassen,Swartz Bay,2022,8,11,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,11,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,11,17,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,11,18,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,11,18,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,11,19,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,11,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,11,20,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,11,20,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,11,21,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,11,21,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,12,6,0,Coastal Celebration,95,100
+1,Tsawwassen,Swartz Bay,2022,8,12,6,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,12,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,12,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,12,8,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,12,8,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,12,9,0,Spirit of British Columbia,95,89
+1,Tsawwassen,Swartz Bay,2022,8,12,9,0,Spirit of Vancouver Island,95,89
+1,Swartz Bay,Tsawwassen,2022,8,12,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,12,10,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,8,12,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,12,11,0,Spirit of British Columbia,95,91
+1,Swartz Bay,Tsawwassen,2022,8,12,12,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,8,12,12,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,12,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,12,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,12,14,0,Coastal Celebration,95,103
+1,Tsawwassen,Swartz Bay,2022,8,12,14,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,12,15,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,12,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,8,12,16,0,Queen of New Westminster,95,102
+1,Tsawwassen,Swartz Bay,2022,8,12,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,12,17,0,Spirit of British Columbia,95,107
+1,Tsawwassen,Swartz Bay,2022,8,12,17,0,Spirit of Vancouver Island,95,99
+1,Swartz Bay,Tsawwassen,2022,8,12,18,0,Coastal Celebration,95,103
+1,Tsawwassen,Swartz Bay,2022,8,12,18,0,Queen of New Westminster,95,100
+1,Swartz Bay,Tsawwassen,2022,8,12,19,0,Spirit of Vancouver Island,95,115
+1,Tsawwassen,Swartz Bay,2022,8,12,19,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,12,20,0,Queen of New Westminster,95,107
+1,Tsawwassen,Swartz Bay,2022,8,12,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,12,21,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,12,21,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,8,13,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,13,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,13,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,13,7,0,Spirit of British Columbia,95,91
+1,Swartz Bay,Tsawwassen,2022,8,13,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,13,8,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,8,13,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,13,9,0,Spirit of Vancouver Island,95,95
+1,Swartz Bay,Tsawwassen,2022,8,13,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,13,10,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,13,11,0,Spirit of Vancouver Island,95,99
+1,Tsawwassen,Swartz Bay,2022,8,13,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,8,13,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,13,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,13,13,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,13,13,0,Spirit of Vancouver Island,95,104
+1,Swartz Bay,Tsawwassen,2022,8,13,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,13,15,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,13,15,0,Spirit of British Columbia,95,116
+1,Tsawwassen,Swartz Bay,2022,8,13,16,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,13,17,0,Spirit of British Columbia,95,120
+1,Tsawwassen,Swartz Bay,2022,8,13,17,0,Spirit of Vancouver Island,95,101
+1,Swartz Bay,Tsawwassen,2022,8,13,18,0,Coastal Celebration,95,109
+1,Swartz Bay,Tsawwassen,2022,8,13,19,0,Spirit of Vancouver Island,95,103
+1,Tsawwassen,Swartz Bay,2022,8,13,19,0,Spirit of British Columbia,95,117
+1,Tsawwassen,Swartz Bay,2022,8,13,20,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,13,21,0,Spirit of British Columbia,95,114
+1,Tsawwassen,Swartz Bay,2022,8,13,21,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,14,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,14,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,14,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,14,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,14,9,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,14,10,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,8,14,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,14,11,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,14,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,14,12,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,14,13,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,14,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,14,14,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,14,14,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,14,15,0,Spirit of Vancouver Island,95,104
+1,Tsawwassen,Swartz Bay,2022,8,14,15,0,Spirit of British Columbia,95,110
+1,Swartz Bay,Tsawwassen,2022,8,14,16,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,8,14,16,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,14,17,0,Spirit of British Columbia,95,114
+1,Tsawwassen,Swartz Bay,2022,8,14,17,0,Spirit of Vancouver Island,95,118
+1,Swartz Bay,Tsawwassen,2022,8,14,18,0,Queen of New Westminster,95,87
+1,Tsawwassen,Swartz Bay,2022,8,14,18,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,14,19,0,Spirit of Vancouver Island,95,124
+1,Tsawwassen,Swartz Bay,2022,8,14,19,0,Spirit of British Columbia,95,112
+1,Swartz Bay,Tsawwassen,2022,8,14,20,0,Coastal Celebration,95,95
+1,Swartz Bay,Tsawwassen,2022,8,14,21,0,Spirit of British Columbia,95,122
+1,Tsawwassen,Swartz Bay,2022,8,14,21,0,Spirit of Vancouver Island,95,120
+1,Tsawwassen,Swartz Bay,2022,8,14,22,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,15,6,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,8,15,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,15,7,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,15,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,15,8,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,15,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,15,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,15,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,15,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,15,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,15,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,15,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,15,12,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,15,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,15,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,15,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,15,14,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,8,15,14,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,8,15,15,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,15,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,15,16,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,15,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,15,17,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,8,15,17,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,15,18,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,15,18,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,15,19,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,15,19,0,Spirit of British Columbia,95,108
+1,Swartz Bay,Tsawwassen,2022,8,15,20,0,Queen of New Westminster,95,80
+1,Tsawwassen,Swartz Bay,2022,8,15,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,15,21,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,8,15,21,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,16,6,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,16,6,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,8,16,7,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,16,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,16,8,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,8,16,8,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,16,9,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,16,9,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,16,10,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,16,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,16,11,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,16,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,8,16,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,16,12,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,16,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,16,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,16,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,16,15,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,16,15,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,8,16,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,16,17,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,8,16,17,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,16,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,16,19,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,16,19,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,8,16,20,0,Coastal Celebration,95,84
+1,Swartz Bay,Tsawwassen,2022,8,16,21,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,8,16,21,0,Spirit of Vancouver Island,95,82
+1,Swartz Bay,Tsawwassen,2022,8,17,6,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,17,6,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,17,7,0,Spirit of Vancouver Island,95,84
+1,Tsawwassen,Swartz Bay,2022,8,17,7,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,8,17,8,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,17,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,17,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,17,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,17,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,17,10,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,17,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,17,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,17,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,8,17,12,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,17,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,17,13,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,17,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,17,15,0,Spirit of Vancouver Island,95,93
+1,Tsawwassen,Swartz Bay,2022,8,17,15,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,8,17,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,17,17,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,17,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,17,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,17,19,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,17,19,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,8,17,20,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,8,17,21,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,17,21,0,Spirit of Vancouver Island,95,93
+1,Swartz Bay,Tsawwassen,2022,8,18,6,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,18,6,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,18,7,0,Spirit of Vancouver Island,95,89
+1,Tsawwassen,Swartz Bay,2022,8,18,7,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,8,18,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,18,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,18,9,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,18,9,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,8,18,10,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,18,10,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,18,11,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,18,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,18,12,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,18,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,18,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,18,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,18,14,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,18,14,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,18,15,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,18,15,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,18,16,0,Queen of New Westminster,95,85
+1,Tsawwassen,Swartz Bay,2022,8,18,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,18,17,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,18,17,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,18,18,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,18,18,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,8,18,19,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,18,19,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,18,20,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,18,20,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,8,18,21,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,18,21,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,8,19,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,19,6,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,8,19,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,19,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,19,8,0,Queen of New Westminster,95,87
+1,Tsawwassen,Swartz Bay,2022,8,19,8,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,8,19,9,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,19,9,0,Spirit of Vancouver Island,95,89
+1,Swartz Bay,Tsawwassen,2022,8,19,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,19,10,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,19,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,19,11,0,Spirit of British Columbia,95,101
+1,Swartz Bay,Tsawwassen,2022,8,19,12,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,8,19,12,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,19,13,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,8,19,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,19,14,0,Coastal Celebration,95,100
+1,Tsawwassen,Swartz Bay,2022,8,19,14,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,8,19,15,0,Spirit of Vancouver Island,95,93
+1,Tsawwassen,Swartz Bay,2022,8,19,15,0,Spirit of British Columbia,95,110
+1,Swartz Bay,Tsawwassen,2022,8,19,16,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,19,16,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,8,19,17,0,Spirit of British Columbia,95,118
+1,Tsawwassen,Swartz Bay,2022,8,19,17,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,8,19,18,0,Coastal Celebration,95,102
+1,Tsawwassen,Swartz Bay,2022,8,19,18,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,19,19,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,19,19,0,Spirit of British Columbia,95,122
+1,Swartz Bay,Tsawwassen,2022,8,19,20,0,Queen of New Westminster,95,91
+1,Tsawwassen,Swartz Bay,2022,8,19,20,0,Coastal Celebration,95,105
+1,Swartz Bay,Tsawwassen,2022,8,19,21,0,Spirit of British Columbia,95,122
+1,Tsawwassen,Swartz Bay,2022,8,19,21,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,8,20,6,0,Queen of New Westminster,95,106
+1,Swartz Bay,Tsawwassen,2022,8,20,7,0,Spirit of Vancouver Island,95,120
+1,Swartz Bay,Tsawwassen,2022,8,20,8,0,Queen of New Westminster,95,106
+1,Tsawwassen,Swartz Bay,2022,8,20,9,0,Spirit of Vancouver Island,95,133
+1,Swartz Bay,Tsawwassen,2022,8,20,10,0,Coastal Celebration,95,84
+1,Tsawwassen,Swartz Bay,2022,8,20,10,0,Queen of New Westminster,95,106
+1,Swartz Bay,Tsawwassen,2022,8,20,11,0,Spirit of Vancouver Island,95,140
+1,Tsawwassen,Swartz Bay,2022,8,20,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,20,12,0,Queen of New Westminster,95,103
+1,Tsawwassen,Swartz Bay,2022,8,20,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,20,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,20,13,0,Spirit of Vancouver Island,95,144
+1,Swartz Bay,Tsawwassen,2022,8,20,14,0,Coastal Celebration,95,102
+1,Swartz Bay,Tsawwassen,2022,8,20,15,0,Spirit of Vancouver Island,95,149
+1,Tsawwassen,Swartz Bay,2022,8,20,15,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,20,16,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,20,17,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,8,20,17,0,Spirit of Vancouver Island,95,152
+1,Swartz Bay,Tsawwassen,2022,8,20,18,0,Coastal Celebration,95,97
+1,Swartz Bay,Tsawwassen,2022,8,20,19,0,Spirit of Vancouver Island,95,154
+1,Tsawwassen,Swartz Bay,2022,8,20,19,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,8,20,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,20,21,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,20,21,0,Spirit of Vancouver Island,95,148
+1,Swartz Bay,Tsawwassen,2022,8,21,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,21,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,21,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,21,9,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,21,9,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,21,10,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,8,21,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,21,11,0,Spirit of British Columbia,95,109
+1,Swartz Bay,Tsawwassen,2022,8,21,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,21,12,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,21,13,0,Spirit of British Columbia,95,114
+1,Tsawwassen,Swartz Bay,2022,8,21,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,21,14,0,Queen of New Westminster,95,102
+1,Tsawwassen,Swartz Bay,2022,8,21,14,0,Coastal Celebration,95,102
+1,Swartz Bay,Tsawwassen,2022,8,21,15,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,21,15,0,Spirit of British Columbia,95,108
+1,Swartz Bay,Tsawwassen,2022,8,21,16,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,8,21,16,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,21,17,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,8,21,17,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,21,18,0,Queen of New Westminster,95,91
+1,Tsawwassen,Swartz Bay,2022,8,21,18,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,21,19,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,21,19,0,Spirit of British Columbia,95,115
+1,Swartz Bay,Tsawwassen,2022,8,21,20,0,Coastal Celebration,95,108
+1,Swartz Bay,Tsawwassen,2022,8,21,21,0,Spirit of British Columbia,95,114
+1,Tsawwassen,Swartz Bay,2022,8,21,21,0,Spirit of Vancouver Island,95,107
+1,Tsawwassen,Swartz Bay,2022,8,21,22,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,22,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,22,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,22,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,22,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,22,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,22,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,22,9,0,Spirit of British Columbia,95,97
+1,Tsawwassen,Swartz Bay,2022,8,22,9,0,Spirit of Vancouver Island,95,97
+1,Swartz Bay,Tsawwassen,2022,8,22,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,22,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,22,11,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,8,22,11,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,22,12,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,22,12,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,8,22,13,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,8,22,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,22,14,0,Coastal Celebration,95,104
+1,Tsawwassen,Swartz Bay,2022,8,22,14,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,8,22,15,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,22,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,22,16,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,22,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,22,17,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,8,22,17,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,22,18,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,22,18,0,Queen of New Westminster,95,80
+1,Swartz Bay,Tsawwassen,2022,8,22,19,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,8,22,19,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,22,20,0,Queen of New Westminster,95,91
+1,Tsawwassen,Swartz Bay,2022,8,22,20,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,22,21,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,22,21,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,23,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,23,6,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,23,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,23,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,23,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,23,8,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,23,9,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,23,9,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,23,10,0,Coastal Celebration,95,89
+1,Tsawwassen,Swartz Bay,2022,8,23,10,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,23,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,23,11,0,Spirit of British Columbia,95,97
+1,Swartz Bay,Tsawwassen,2022,8,23,12,0,Queen of New Westminster,95,87
+1,Tsawwassen,Swartz Bay,2022,8,23,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,23,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,23,13,0,Spirit of Vancouver Island,95,101
+1,Swartz Bay,Tsawwassen,2022,8,23,14,0,Coastal Celebration,95,87
+1,Swartz Bay,Tsawwassen,2022,8,23,15,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,8,23,15,0,Spirit of British Columbia,95,95
+1,Tsawwassen,Swartz Bay,2022,8,23,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,23,17,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,23,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,23,18,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,23,19,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,23,19,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,23,20,0,Coastal Celebration,95,78
+1,Swartz Bay,Tsawwassen,2022,8,23,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,8,23,21,0,Spirit of Vancouver Island,95,84
+1,Swartz Bay,Tsawwassen,2022,8,24,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,24,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,24,7,0,Spirit of Vancouver Island,95,91
+1,Tsawwassen,Swartz Bay,2022,8,24,7,0,Spirit of British Columbia,95,91
+1,Swartz Bay,Tsawwassen,2022,8,24,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,24,8,0,Coastal Celebration,95,78
+1,Swartz Bay,Tsawwassen,2022,8,24,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,24,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,24,10,0,Coastal Celebration,95,89
+1,Tsawwassen,Swartz Bay,2022,8,24,10,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,8,24,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,24,11,0,Spirit of British Columbia,95,104
+1,Swartz Bay,Tsawwassen,2022,8,24,12,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,24,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,24,13,0,Spirit of British Columbia,95,95
+1,Tsawwassen,Swartz Bay,2022,8,24,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,24,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,24,15,0,Spirit of Vancouver Island,95,103
+1,Tsawwassen,Swartz Bay,2022,8,24,15,0,Spirit of British Columbia,95,95
+1,Tsawwassen,Swartz Bay,2022,8,24,16,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,24,17,0,Spirit of British Columbia,95,99
+1,Tsawwassen,Swartz Bay,2022,8,24,17,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,8,24,18,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,24,19,0,Spirit of Vancouver Island,95,106
+1,Tsawwassen,Swartz Bay,2022,8,24,19,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,24,20,0,Coastal Celebration,95,78
+1,Swartz Bay,Tsawwassen,2022,8,24,21,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,24,21,0,Spirit of Vancouver Island,95,105
+1,Swartz Bay,Tsawwassen,2022,8,25,6,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,25,6,0,Queen of New Westminster,95,85
+1,Swartz Bay,Tsawwassen,2022,8,25,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,25,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,25,8,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,8,25,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,25,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,25,9,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,25,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,8,25,10,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,25,11,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,25,11,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,8,25,12,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,25,12,0,Coastal Celebration,95,95
+1,Swartz Bay,Tsawwassen,2022,8,25,13,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,25,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,25,14,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,8,25,14,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,25,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,25,15,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,25,16,0,Queen of New Westminster,95,91
+1,Tsawwassen,Swartz Bay,2022,8,25,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,25,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,25,17,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,25,18,0,Coastal Celebration,95,93
+1,Tsawwassen,Swartz Bay,2022,8,25,18,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,8,25,19,0,Spirit of Vancouver Island,95,105
+1,Tsawwassen,Swartz Bay,2022,8,25,19,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,8,25,20,0,Queen of New Westminster,95,98
+1,Tsawwassen,Swartz Bay,2022,8,25,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,25,21,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,8,25,21,0,Spirit of Vancouver Island,95,105
+1,Swartz Bay,Tsawwassen,2022,8,26,6,0,Coastal Celebration,95,116
+1,Tsawwassen,Swartz Bay,2022,8,26,6,0,Queen of New Westminster,95,206
+1,Swartz Bay,Tsawwassen,2022,8,26,7,0,Spirit of Vancouver Island,95,119
+1,Tsawwassen,Swartz Bay,2022,8,26,7,0,Spirit of British Columbia,95,176
+1,Swartz Bay,Tsawwassen,2022,8,26,8,0,Queen of New Westminster,95,219
+1,Tsawwassen,Swartz Bay,2022,8,26,8,0,Coastal Celebration,95,139
+1,Swartz Bay,Tsawwassen,2022,8,26,9,0,Spirit of British Columbia,95,182
+1,Tsawwassen,Swartz Bay,2022,8,26,9,0,Spirit of Vancouver Island,95,116
+1,Swartz Bay,Tsawwassen,2022,8,26,10,0,Coastal Celebration,95,155
+1,Tsawwassen,Swartz Bay,2022,8,26,10,0,Queen of New Westminster,95,204
+1,Swartz Bay,Tsawwassen,2022,8,26,11,0,Spirit of Vancouver Island,95,124
+1,Tsawwassen,Swartz Bay,2022,8,26,11,0,Spirit of British Columbia,95,202
+1,Swartz Bay,Tsawwassen,2022,8,26,12,0,Queen of New Westminster,95,218
+1,Tsawwassen,Swartz Bay,2022,8,26,12,0,Coastal Celebration,95,206
+1,Swartz Bay,Tsawwassen,2022,8,26,13,0,Spirit of British Columbia,95,213
+1,Tsawwassen,Swartz Bay,2022,8,26,13,0,Spirit of Vancouver Island,95,162
+1,Swartz Bay,Tsawwassen,2022,8,26,14,0,Coastal Celebration,95,213
+1,Tsawwassen,Swartz Bay,2022,8,26,14,0,Queen of New Westminster,95,212
+1,Swartz Bay,Tsawwassen,2022,8,26,15,0,Spirit of Vancouver Island,95,190
+1,Tsawwassen,Swartz Bay,2022,8,26,15,0,Spirit of British Columbia,95,212
+1,Swartz Bay,Tsawwassen,2022,8,26,16,0,Queen of New Westminster,95,226
+1,Tsawwassen,Swartz Bay,2022,8,26,16,0,Coastal Celebration,95,211
+1,Swartz Bay,Tsawwassen,2022,8,26,17,0,Spirit of British Columbia,95,227
+1,Tsawwassen,Swartz Bay,2022,8,26,17,0,Spirit of Vancouver Island,95,205
+1,Swartz Bay,Tsawwassen,2022,8,26,18,0,Coastal Celebration,95,222
+1,Tsawwassen,Swartz Bay,2022,8,26,18,0,Queen of New Westminster,95,220
+1,Swartz Bay,Tsawwassen,2022,8,26,19,0,Spirit of Vancouver Island,95,222
+1,Tsawwassen,Swartz Bay,2022,8,26,19,0,Spirit of British Columbia,95,222
+1,Swartz Bay,Tsawwassen,2022,8,26,20,0,Queen of New Westminster,95,243
+1,Tsawwassen,Swartz Bay,2022,8,26,20,0,Coastal Celebration,95,198
+1,Swartz Bay,Tsawwassen,2022,8,26,21,0,Spirit of British Columbia,95,224
+1,Tsawwassen,Swartz Bay,2022,8,26,21,0,Spirit of Vancouver Island,95,215
+1,Swartz Bay,Tsawwassen,2022,8,27,6,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,8,27,6,0,Queen of New Westminster,95,87
+1,Swartz Bay,Tsawwassen,2022,8,27,7,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,8,27,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,8,27,8,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,8,27,8,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,27,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,27,9,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,27,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,27,10,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,8,27,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,27,11,0,Spirit of British Columbia,95,103
+1,Swartz Bay,Tsawwassen,2022,8,27,12,0,Queen of New Westminster,95,89
+1,Tsawwassen,Swartz Bay,2022,8,27,12,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,27,13,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,27,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,8,27,14,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,8,27,15,0,Spirit of Vancouver Island,95,106
+1,Tsawwassen,Swartz Bay,2022,8,27,15,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,8,27,16,0,Coastal Celebration,95,102
+1,Swartz Bay,Tsawwassen,2022,8,27,17,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,8,27,17,0,Spirit of Vancouver Island,95,110
+1,Swartz Bay,Tsawwassen,2022,8,27,18,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,8,27,19,0,Spirit of Vancouver Island,95,109
+1,Tsawwassen,Swartz Bay,2022,8,27,19,0,Spirit of British Columbia,95,109
+1,Tsawwassen,Swartz Bay,2022,8,27,20,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,27,21,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,8,27,21,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,8,28,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,28,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,8,28,8,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,28,9,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,8,28,9,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,28,10,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,28,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,28,11,0,Spirit of British Columbia,95,91
+1,Swartz Bay,Tsawwassen,2022,8,28,12,0,Coastal Celebration,95,101
+1,Tsawwassen,Swartz Bay,2022,8,28,12,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,28,13,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,28,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,28,14,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,28,14,0,Coastal Celebration,95,95
+1,Swartz Bay,Tsawwassen,2022,8,28,15,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,28,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,8,28,16,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,28,16,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,8,28,17,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,28,17,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,8,28,18,0,Queen of New Westminster,95,80
+1,Tsawwassen,Swartz Bay,2022,8,28,18,0,Coastal Celebration,95,87
+1,Swartz Bay,Tsawwassen,2022,8,28,19,0,Spirit of Vancouver Island,95,108
+1,Tsawwassen,Swartz Bay,2022,8,28,19,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,8,28,20,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,28,21,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,28,21,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,8,28,22,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,8,29,6,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,29,6,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,29,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,29,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,29,8,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,8,29,8,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,8,29,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,29,9,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,29,10,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,8,29,10,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,8,29,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,29,11,0,Spirit of British Columbia,95,106
+1,Swartz Bay,Tsawwassen,2022,8,29,12,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,29,12,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,8,29,13,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,8,29,13,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,8,29,14,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,8,29,14,0,Queen of New Westminster,95,100
+1,Swartz Bay,Tsawwassen,2022,8,29,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,8,29,15,0,Spirit of British Columbia,95,114
+1,Swartz Bay,Tsawwassen,2022,8,29,16,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,29,16,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,8,29,17,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,8,29,17,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,8,29,18,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,29,18,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,8,29,19,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,8,29,19,0,Spirit of British Columbia,95,104
+1,Swartz Bay,Tsawwassen,2022,8,29,20,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,8,29,20,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,8,29,21,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,8,29,21,0,Spirit of Vancouver Island,95,81
+1,Swartz Bay,Tsawwassen,2022,8,30,6,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,30,6,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,8,30,7,0,Spirit of Vancouver Island,95,89
+1,Tsawwassen,Swartz Bay,2022,8,30,7,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,8,30,8,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,8,30,8,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,8,30,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,30,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,30,10,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,8,30,10,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,30,11,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,8,30,11,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,30,12,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,8,30,12,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,8,30,13,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,30,13,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,8,30,14,0,Coastal Celebration,95,129
+1,Swartz Bay,Tsawwassen,2022,8,30,15,0,Spirit of Vancouver Island,95,114
+1,Tsawwassen,Swartz Bay,2022,8,30,15,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,30,16,0,Coastal Celebration,95,129
+1,Swartz Bay,Tsawwassen,2022,8,30,17,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,30,17,0,Spirit of Vancouver Island,95,120
+1,Swartz Bay,Tsawwassen,2022,8,30,18,0,Coastal Celebration,95,125
+1,Swartz Bay,Tsawwassen,2022,8,30,19,0,Spirit of Vancouver Island,95,114
+1,Tsawwassen,Swartz Bay,2022,8,30,19,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,30,20,0,Coastal Celebration,95,118
+1,Swartz Bay,Tsawwassen,2022,8,30,21,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,30,21,0,Spirit of Vancouver Island,95,110
+1,Swartz Bay,Tsawwassen,2022,8,31,6,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,8,31,6,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,8,31,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,31,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,8,31,8,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,8,31,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,31,9,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,8,31,9,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,8,31,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,8,31,10,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,8,31,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,8,31,11,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,8,31,12,0,Queen of New Westminster,95,85
+1,Tsawwassen,Swartz Bay,2022,8,31,12,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,8,31,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,8,31,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,8,31,14,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,31,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,31,15,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,31,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,8,31,17,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,8,31,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,8,31,18,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,8,31,19,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,8,31,19,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,8,31,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,8,31,21,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,8,31,21,0,Spirit of Vancouver Island,95,86

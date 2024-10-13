@@ -1,0 +1,2900 @@
+1,Swartz Bay,Tsawwassen,2022,6,1,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,1,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,1,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,1,9,0,Spirit of British Columbia,95,116
+1,Tsawwassen,Swartz Bay,2022,6,1,9,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,1,10,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,1,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,1,11,0,Spirit of British Columbia,95,112
+1,Swartz Bay,Tsawwassen,2022,6,1,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,1,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,1,13,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,6,1,13,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,1,14,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,1,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,1,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,1,15,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,1,16,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,1,16,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,1,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,1,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,1,18,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,6,1,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,1,19,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,1,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,1,20,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,1,21,0,Spirit of British Columbia,95,84
+1,Tsawwassen,Swartz Bay,2022,6,1,21,0,Spirit of Vancouver Island,95,82
+1,Tsawwassen,Swartz Bay,2022,6,1,22,0,Coastal Celebration,95,76
+2,Departure Bay,Horseshoe Bay,2022,6,1,6,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,1,6,15,Queen of Oak Bay,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,1,8,25,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,1,8,25,Queen of Cowichan,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,1,10,40,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,1,10,40,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,1,13,0,Queen of Oak Bay,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,1,13,0,Queen of Cowichan,100,119
+2,Departure Bay,Horseshoe Bay,2022,6,1,14,45,Queen of Coquitlam,100,131
+2,Departure Bay,Horseshoe Bay,2022,6,1,15,20,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,1,15,45,Queen of Oak Bay,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,1,17,40,Queen of Cowichan,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,1,17,55,Queen of Oak Bay,100,119
+2,Horseshoe Bay,Departure Bay,2022,6,1,19,30,Queen of Coquitlam,100,100
+2,Horseshoe Bay,Departure Bay,2022,6,1,20,5,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,1,22,10,Queen of Oak Bay,100,107
+3,Langdale,Horseshoe Bay,2022,6,1,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,1,7,30,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,1,8,40,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,1,9,50,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,1,11,0,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,1,12,10,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,1,13,15,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,1,14,25,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,1,15,35,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,1,16,45,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,1,17,30,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,1,17,55,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,1,18,25,Queen of Coquitlam,40,39
+3,Horseshoe Bay,Langdale,2022,6,1,19,5,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,1,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,1,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,1,22,30,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,1,23,30,Queen of Surrey,40,38
+4,Swartz Bay,Fulford Harbour,2022,6,1,7,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,1,9,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,1,11,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,1,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,1,15,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,1,17,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,1,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,1,21,0,Skeena Queen,35,26
+8,Horseshoe Bay,Bowen Island,2022,6,1,5,50,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,1,6,50,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,1,8,0,Queen of Capilano,20,37
+8,Horseshoe Bay,Bowen Island,2022,6,1,9,5,Queen of Capilano,20,38
+8,Horseshoe Bay,Bowen Island,2022,6,1,10,15,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,1,11,25,Queen of Capilano,20,52
+8,Horseshoe Bay,Bowen Island,2022,6,1,12,35,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,1,14,20,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,1,15,30,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,1,16,35,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,1,17,45,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,1,18,50,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,1,20,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,1,21,0,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,1,22,0,Queen of Capilano,20,22
+30,Duke Point,Tsawwassen,2022,6,1,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,1,5,15,Queen of Alberni,120,121
+30,Duke Point,Tsawwassen,2022,6,1,7,45,Queen of Alberni,120,147
+30,Tsawwassen,Duke Point,2022,6,1,7,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,1,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,1,10,15,Queen of Alberni,120,147
+30,Duke Point,Tsawwassen,2022,6,1,12,45,Queen of Alberni,120,147
+30,Tsawwassen,Duke Point,2022,6,1,12,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,1,15,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,1,15,15,Queen of Alberni,120,145
+30,Duke Point,Tsawwassen,2022,6,1,17,45,Queen of Alberni,120,143
+30,Tsawwassen,Duke Point,2022,6,1,17,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,1,20,15,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,1,20,15,Queen of Alberni,120,136
+30,Duke Point,Tsawwassen,2022,6,1,22,45,Queen of Alberni,120,135
+30,Tsawwassen,Duke Point,2022,6,1,22,45,Coastal Renaissance,120,121
+1,Swartz Bay,Tsawwassen,2022,6,2,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,2,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,2,8,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,2,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,2,9,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,2,10,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,2,11,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,6,2,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,2,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,2,12,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,6,2,13,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,2,13,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,6,2,14,0,Queen of New Westminster,95,89
+1,Tsawwassen,Swartz Bay,2022,6,2,14,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,2,15,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,2,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,2,16,0,Coastal Celebration,95,91
+1,Tsawwassen,Swartz Bay,2022,6,2,16,0,Queen of New Westminster,95,91
+1,Swartz Bay,Tsawwassen,2022,6,2,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,2,17,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,6,2,18,0,Queen of New Westminster,95,78
+1,Tsawwassen,Swartz Bay,2022,6,2,18,0,Coastal Celebration,95,89
+1,Swartz Bay,Tsawwassen,2022,6,2,19,0,Spirit of Vancouver Island,95,97
+1,Tsawwassen,Swartz Bay,2022,6,2,19,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,6,2,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,2,21,0,Spirit of British Columbia,95,91
+1,Tsawwassen,Swartz Bay,2022,6,2,21,0,Spirit of Vancouver Island,95,87
+1,Tsawwassen,Swartz Bay,2022,6,2,22,0,Coastal Celebration,95,78
+2,Departure Bay,Horseshoe Bay,2022,6,2,6,15,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,2,6,15,Queen of Oak Bay,100,123
+2,Departure Bay,Horseshoe Bay,2022,6,2,8,25,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,2,8,25,Queen of Cowichan,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,2,10,40,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,2,10,40,Queen of Oak Bay,100,124
+2,Departure Bay,Horseshoe Bay,2022,6,2,13,0,Queen of Oak Bay,100,178
+2,Horseshoe Bay,Departure Bay,2022,6,2,13,0,Queen of Cowichan,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,2,14,45,Queen of Coquitlam,100,133
+2,Departure Bay,Horseshoe Bay,2022,6,2,15,20,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,2,15,45,Queen of Oak Bay,100,151
+2,Horseshoe Bay,Departure Bay,2022,6,2,17,40,Queen of Cowichan,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,2,17,55,Queen of Oak Bay,100,154
+2,Horseshoe Bay,Departure Bay,2022,6,2,19,30,Queen of Coquitlam,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,2,20,5,Queen of Oak Bay,100,142
+2,Departure Bay,Horseshoe Bay,2022,6,2,22,10,Queen of Oak Bay,100,137
+3,Langdale,Horseshoe Bay,2022,6,2,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,2,7,30,Queen of Surrey,40,48
+3,Langdale,Horseshoe Bay,2022,6,2,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,2,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,2,11,0,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,2,12,10,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,2,13,15,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,2,14,25,Queen of Surrey,40,48
+3,Langdale,Horseshoe Bay,2022,6,2,15,35,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,2,16,45,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,2,17,30,Queen of Coquitlam,40,48
+3,Langdale,Horseshoe Bay,2022,6,2,17,55,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,2,19,5,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,2,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,2,21,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,2,22,30,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,2,23,30,Queen of Surrey,40,42
+4,Swartz Bay,Fulford Harbour,2022,6,2,7,0,Skeena Queen,35,44
+4,Swartz Bay,Fulford Harbour,2022,6,2,9,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,2,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,2,13,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,2,15,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,2,17,0,Skeena Queen,35,31
+4,Swartz Bay,Fulford Harbour,2022,6,2,19,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,2,21,0,Skeena Queen,35,32
+8,Horseshoe Bay,Bowen Island,2022,6,2,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,2,6,50,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,2,8,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,2,9,5,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,2,10,15,Queen of Capilano,20,39
+8,Horseshoe Bay,Bowen Island,2022,6,2,11,25,Queen of Capilano,20,47
+8,Horseshoe Bay,Bowen Island,2022,6,2,12,35,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,2,14,20,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,2,15,30,Queen of Capilano,20,38
+8,Horseshoe Bay,Bowen Island,2022,6,2,16,35,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,2,17,45,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,2,18,50,Queen of Capilano,20,62
+8,Horseshoe Bay,Bowen Island,2022,6,2,20,0,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,2,21,0,Queen of Capilano,20,46
+8,Horseshoe Bay,Bowen Island,2022,6,2,22,0,Queen of Capilano,20,38
+30,Duke Point,Tsawwassen,2022,6,2,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,2,5,15,Queen of Alberni,120,125
+30,Duke Point,Tsawwassen,2022,6,2,7,45,Queen of Alberni,120,153
+30,Tsawwassen,Duke Point,2022,6,2,7,45,Coastal Renaissance,120,122
+30,Duke Point,Tsawwassen,2022,6,2,10,15,Coastal Renaissance,120,124
+30,Tsawwassen,Duke Point,2022,6,2,10,15,Queen of Alberni,120,154
+30,Duke Point,Tsawwassen,2022,6,2,12,45,Queen of Alberni,120,157
+30,Tsawwassen,Duke Point,2022,6,2,12,45,Coastal Renaissance,120,127
+30,Duke Point,Tsawwassen,2022,6,2,15,15,Coastal Renaissance,120,131
+30,Tsawwassen,Duke Point,2022,6,2,15,15,Queen of Alberni,120,157
+30,Duke Point,Tsawwassen,2022,6,2,17,45,Queen of Alberni,120,164
+30,Tsawwassen,Duke Point,2022,6,2,17,45,Coastal Renaissance,120,137
+30,Duke Point,Tsawwassen,2022,6,2,20,15,Coastal Renaissance,120,120
+30,Tsawwassen,Duke Point,2022,6,2,20,15,Queen of Alberni,120,159
+30,Duke Point,Tsawwassen,2022,6,2,22,45,Queen of Alberni,120,161
+30,Tsawwassen,Duke Point,2022,6,2,22,45,Coastal Renaissance,120,123
+1,Swartz Bay,Tsawwassen,2022,6,3,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,3,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,3,8,0,Coastal Celebration,95,100
+1,Tsawwassen,Swartz Bay,2022,6,3,8,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,6,3,9,0,Spirit of British Columbia,95,97
+1,Tsawwassen,Swartz Bay,2022,6,3,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,3,10,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,3,10,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,3,11,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,3,11,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,6,3,12,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,6,3,12,0,Queen of New Westminster,95,106
+1,Swartz Bay,Tsawwassen,2022,6,3,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,3,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,3,14,0,Queen of New Westminster,95,101
+1,Tsawwassen,Swartz Bay,2022,6,3,14,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,3,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,3,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,6,3,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,3,17,0,Spirit of British Columbia,95,101
+1,Tsawwassen,Swartz Bay,2022,6,3,17,0,Spirit of Vancouver Island,95,101
+1,Tsawwassen,Swartz Bay,2022,6,3,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,3,19,0,Spirit of Vancouver Island,95,101
+1,Tsawwassen,Swartz Bay,2022,6,3,19,0,Spirit of British Columbia,95,104
+1,Swartz Bay,Tsawwassen,2022,6,3,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,3,21,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,3,21,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,3,22,0,Coastal Celebration,95,80
+2,Departure Bay,Horseshoe Bay,2022,6,3,6,15,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,3,6,15,Queen of Oak Bay,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,3,8,25,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,3,8,25,Queen of Cowichan,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,3,9,30,Queen of Coquitlam,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,3,10,40,Queen of Cowichan,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,3,10,40,Queen of Oak Bay,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,3,12,0,Queen of Coquitlam,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,3,13,0,Queen of Oak Bay,100,114
+2,Horseshoe Bay,Departure Bay,2022,6,3,13,0,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,3,14,45,Queen of Coquitlam,100,115
+2,Departure Bay,Horseshoe Bay,2022,6,3,15,20,Queen of Cowichan,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,3,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,3,17,40,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,3,17,55,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,3,19,30,Queen of Coquitlam,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,3,20,5,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,3,20,5,Queen of Oak Bay,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,3,22,10,Queen of Oak Bay,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,3,22,10,Queen of Cowichan,100,102
+3,Langdale,Horseshoe Bay,2022,6,3,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,3,7,30,Queen of Surrey,40,36
+3,Langdale,Horseshoe Bay,2022,6,3,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,3,9,50,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,3,11,0,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,3,12,10,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,3,13,15,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,3,14,25,Queen of Surrey,40,51
+3,Langdale,Horseshoe Bay,2022,6,3,15,35,Queen of Surrey,40,55
+3,Horseshoe Bay,Langdale,2022,6,3,16,45,Queen of Surrey,40,61
+3,Horseshoe Bay,Langdale,2022,6,3,17,30,Queen of Coquitlam,40,56
+3,Langdale,Horseshoe Bay,2022,6,3,17,55,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,3,19,5,Queen of Surrey,40,56
+3,Langdale,Horseshoe Bay,2022,6,3,20,15,Queen of Surrey,40,48
+3,Horseshoe Bay,Langdale,2022,6,3,21,25,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,3,22,30,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,3,23,30,Queen of Surrey,40,39
+4,Swartz Bay,Fulford Harbour,2022,6,3,7,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,3,9,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,3,11,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,3,13,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,3,15,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,3,17,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,3,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,3,21,0,Skeena Queen,35,32
+8,Horseshoe Bay,Bowen Island,2022,6,3,5,50,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,3,6,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,3,8,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,3,9,5,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,3,10,15,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,3,11,25,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,3,12,35,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,3,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,3,15,30,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,3,16,35,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,3,17,45,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,3,18,50,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,3,20,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,3,21,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,3,22,0,Queen of Capilano,20,16
+30,Duke Point,Tsawwassen,2022,6,3,5,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,3,5,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,3,7,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,3,7,45,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,3,10,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,3,10,15,Queen of Alberni,120,119
+30,Duke Point,Tsawwassen,2022,6,3,12,45,Queen of Alberni,120,123
+30,Tsawwassen,Duke Point,2022,6,3,12,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,3,15,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,3,15,15,Queen of Alberni,120,127
+30,Duke Point,Tsawwassen,2022,6,3,17,45,Queen of Alberni,120,129
+30,Tsawwassen,Duke Point,2022,6,3,17,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,3,20,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,3,20,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,3,22,45,Queen of Alberni,120,121
+30,Tsawwassen,Duke Point,2022,6,3,22,45,Coastal Renaissance,120,124
+1,Tsawwassen,Swartz Bay,2022,6,4,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,4,8,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,4,8,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,6,4,9,0,Spirit of British Columbia,95,93
+1,Swartz Bay,Tsawwassen,2022,6,4,10,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,6,4,10,0,Coastal Celebration,95,91
+1,Swartz Bay,Tsawwassen,2022,6,4,11,0,Spirit of Vancouver Island,95,93
+1,Tsawwassen,Swartz Bay,2022,6,4,11,0,Spirit of British Columbia,95,93
+1,Swartz Bay,Tsawwassen,2022,6,4,12,0,Coastal Celebration,95,91
+1,Tsawwassen,Swartz Bay,2022,6,4,12,0,Queen of New Westminster,95,102
+1,Swartz Bay,Tsawwassen,2022,6,4,13,0,Spirit of British Columbia,95,97
+1,Tsawwassen,Swartz Bay,2022,6,4,13,0,Spirit of Vancouver Island,95,97
+1,Swartz Bay,Tsawwassen,2022,6,4,14,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,4,14,0,Coastal Celebration,95,106
+1,Swartz Bay,Tsawwassen,2022,6,4,15,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,4,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,4,17,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,6,4,17,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,6,4,19,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,4,19,0,Spirit of British Columbia,95,109
+1,Swartz Bay,Tsawwassen,2022,6,4,21,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,4,21,0,Spirit of Vancouver Island,95,89
+2,Departure Bay,Horseshoe Bay,2022,6,4,6,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,4,6,15,Queen of Oak Bay,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,4,8,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,4,8,25,Queen of Cowichan,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,4,10,40,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,4,10,40,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,4,13,0,Queen of Oak Bay,100,102
+2,Horseshoe Bay,Departure Bay,2022,6,4,13,0,Queen of Cowichan,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,4,15,20,Queen of Cowichan,100,126
+2,Horseshoe Bay,Departure Bay,2022,6,4,15,45,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,4,17,55,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,4,20,5,Queen of Oak Bay,100,127
+2,Departure Bay,Horseshoe Bay,2022,6,4,22,10,Queen of Oak Bay,100,163
+3,Langdale,Horseshoe Bay,2022,6,4,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,4,7,30,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,4,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,4,9,50,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,4,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,4,12,10,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,4,13,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,4,14,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,4,15,35,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,4,16,45,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,4,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,4,19,5,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,4,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,4,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,4,22,30,Queen of Surrey,40,46
+3,Horseshoe Bay,Langdale,2022,6,4,23,30,Queen of Surrey,40,41
+4,Swartz Bay,Fulford Harbour,2022,6,4,7,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,4,9,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,4,11,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,4,13,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,4,15,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,4,17,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,4,19,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,4,21,0,Skeena Queen,35,35
+8,Horseshoe Bay,Bowen Island,2022,6,4,5,50,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,4,6,50,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,8,0,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,10,15,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,4,11,25,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,12,35,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,4,14,20,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,15,30,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,4,16,35,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,4,17,45,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,4,18,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,4,21,0,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,4,22,0,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,4,5,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,4,5,15,Queen of Alberni,120,123
+30,Duke Point,Tsawwassen,2022,6,4,7,45,Queen of Alberni,120,123
+30,Tsawwassen,Duke Point,2022,6,4,7,45,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,4,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,4,10,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,4,12,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,4,12,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,4,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,4,17,45,Coastal Renaissance,120,117
+1,Swartz Bay,Tsawwassen,2022,6,5,7,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,5,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,5,8,0,Coastal Celebration,95,114
+1,Swartz Bay,Tsawwassen,2022,6,5,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,5,9,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,5,10,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,5,11,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,5,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,5,12,0,Coastal Celebration,95,97
+1,Tsawwassen,Swartz Bay,2022,6,5,12,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,5,13,0,Spirit of British Columbia,95,103
+1,Tsawwassen,Swartz Bay,2022,6,5,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,5,14,0,Queen of New Westminster,95,98
+1,Tsawwassen,Swartz Bay,2022,6,5,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,5,15,0,Spirit of Vancouver Island,95,112
+1,Tsawwassen,Swartz Bay,2022,6,5,15,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,5,16,0,Coastal Celebration,95,97
+1,Tsawwassen,Swartz Bay,2022,6,5,16,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,5,17,0,Spirit of British Columbia,95,107
+1,Tsawwassen,Swartz Bay,2022,6,5,17,0,Spirit of Vancouver Island,95,106
+1,Swartz Bay,Tsawwassen,2022,6,5,18,0,Queen of New Westminster,95,101
+1,Tsawwassen,Swartz Bay,2022,6,5,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,5,19,0,Spirit of Vancouver Island,95,115
+1,Tsawwassen,Swartz Bay,2022,6,5,19,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,6,5,20,0,Coastal Celebration,95,104
+1,Tsawwassen,Swartz Bay,2022,6,5,20,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,5,21,0,Spirit of British Columbia,95,105
+1,Tsawwassen,Swartz Bay,2022,6,5,21,0,Spirit of Vancouver Island,95,118
+1,Swartz Bay,Tsawwassen,2022,6,5,22,0,Queen of New Westminster,95,95
+1,Tsawwassen,Swartz Bay,2022,6,5,22,0,Coastal Celebration,95,96
+2,Departure Bay,Horseshoe Bay,2022,6,5,6,15,Queen of Cowichan,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,5,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,5,8,25,Queen of Oak Bay,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,5,8,25,Queen of Cowichan,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,5,10,40,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,5,10,40,Queen of Oak Bay,100,118
+2,Departure Bay,Horseshoe Bay,2022,6,5,11,15,Queen of Coquitlam,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,5,13,0,Queen of Oak Bay,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,5,13,0,Queen of Cowichan,100,144
+2,Horseshoe Bay,Departure Bay,2022,6,5,15,15,Queen of Coquitlam,100,125
+2,Departure Bay,Horseshoe Bay,2022,6,5,15,20,Queen of Cowichan,100,146
+2,Horseshoe Bay,Departure Bay,2022,6,5,15,45,Queen of Oak Bay,100,125
+2,Departure Bay,Horseshoe Bay,2022,6,5,17,25,Queen of Coquitlam,100,123
+2,Horseshoe Bay,Departure Bay,2022,6,5,17,40,Queen of Cowichan,100,142
+2,Departure Bay,Horseshoe Bay,2022,6,5,17,55,Queen of Oak Bay,100,135
+2,Horseshoe Bay,Departure Bay,2022,6,5,19,30,Queen of Coquitlam,100,128
+2,Departure Bay,Horseshoe Bay,2022,6,5,20,5,Queen of Cowichan,100,129
+2,Horseshoe Bay,Departure Bay,2022,6,5,20,5,Queen of Oak Bay,100,127
+2,Departure Bay,Horseshoe Bay,2022,6,5,22,10,Queen of Oak Bay,100,125
+2,Horseshoe Bay,Departure Bay,2022,6,5,22,10,Queen of Cowichan,100,129
+3,Langdale,Horseshoe Bay,2022,6,5,6,20,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,5,7,30,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,5,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,5,9,50,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,5,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,5,12,10,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,5,13,15,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,5,14,15,Queen of Coquitlam,40,43
+3,Horseshoe Bay,Langdale,2022,6,5,14,25,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,5,15,35,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,5,16,45,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,5,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,5,19,5,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,5,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,5,21,25,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,5,22,30,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,5,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,5,9,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,5,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,5,13,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,5,15,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,5,17,0,Skeena Queen,35,35
+4,Swartz Bay,Fulford Harbour,2022,6,5,19,0,Skeena Queen,35,33
+4,Swartz Bay,Fulford Harbour,2022,6,5,21,0,Skeena Queen,35,35
+8,Horseshoe Bay,Bowen Island,2022,6,5,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,5,6,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,5,8,0,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,5,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,5,10,15,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,5,11,25,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,5,12,35,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,5,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,5,15,30,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,5,16,35,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,5,17,45,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,5,18,50,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,5,20,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,5,21,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,5,22,0,Queen of Capilano,20,17
+30,Duke Point,Tsawwassen,2022,6,5,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,5,10,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,5,12,45,Queen of Alberni,120,113
+30,Tsawwassen,Duke Point,2022,6,5,12,45,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,5,15,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,5,15,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,5,17,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,5,17,45,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,5,20,15,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,5,20,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,5,22,45,Queen of Alberni,120,120
+30,Tsawwassen,Duke Point,2022,6,5,22,45,Coastal Renaissance,120,123
+1,Swartz Bay,Tsawwassen,2022,6,6,7,0,Coastal Celebration,95,126
+1,Tsawwassen,Swartz Bay,2022,6,6,7,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,6,8,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,6,6,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,6,9,0,Coastal Celebration,95,122
+1,Swartz Bay,Tsawwassen,2022,6,6,10,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,6,6,11,0,Coastal Celebration,95,116
+1,Tsawwassen,Swartz Bay,2022,6,6,11,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,6,6,12,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,6,13,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,6,13,0,Coastal Celebration,95,106
+1,Swartz Bay,Tsawwassen,2022,6,6,14,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,6,15,0,Coastal Celebration,95,107
+1,Tsawwassen,Swartz Bay,2022,6,6,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,6,6,17,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,6,6,17,0,Coastal Celebration,95,109
+1,Swartz Bay,Tsawwassen,2022,6,6,19,0,Coastal Celebration,95,108
+1,Tsawwassen,Swartz Bay,2022,6,6,19,0,Spirit of British Columbia,95,116
+1,Swartz Bay,Tsawwassen,2022,6,6,21,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,6,6,21,0,Coastal Celebration,95,104
+2,Departure Bay,Horseshoe Bay,2022,6,6,6,15,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,6,6,15,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,6,8,25,Queen of Oak Bay,100,119
+2,Horseshoe Bay,Departure Bay,2022,6,6,8,25,Queen of Cowichan,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,6,10,40,Queen of Cowichan,100,124
+2,Horseshoe Bay,Departure Bay,2022,6,6,10,40,Queen of Oak Bay,100,124
+2,Departure Bay,Horseshoe Bay,2022,6,6,13,0,Queen of Oak Bay,100,122
+2,Horseshoe Bay,Departure Bay,2022,6,6,13,0,Queen of Cowichan,100,122
+2,Departure Bay,Horseshoe Bay,2022,6,6,14,45,Queen of Coquitlam,100,135
+2,Departure Bay,Horseshoe Bay,2022,6,6,15,20,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,6,15,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,6,17,40,Queen of Cowichan,100,118
+2,Departure Bay,Horseshoe Bay,2022,6,6,17,55,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,6,19,30,Queen of Coquitlam,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,6,20,5,Queen of Oak Bay,100,119
+2,Departure Bay,Horseshoe Bay,2022,6,6,22,10,Queen of Oak Bay,100,117
+3,Langdale,Horseshoe Bay,2022,6,6,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,6,7,30,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,6,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,6,9,50,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,6,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,6,12,10,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,6,13,15,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,6,14,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,6,15,35,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,6,16,45,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,6,17,30,Queen of Coquitlam,40,62
+3,Langdale,Horseshoe Bay,2022,6,6,17,55,Queen of Surrey,40,54
+3,Horseshoe Bay,Langdale,2022,6,6,19,5,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,6,20,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,6,21,25,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,6,22,30,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,6,23,30,Queen of Surrey,40,39
+4,Swartz Bay,Fulford Harbour,2022,6,6,7,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,6,9,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,6,11,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,6,13,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,6,15,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,6,17,0,Skeena Queen,35,24
+4,Swartz Bay,Fulford Harbour,2022,6,6,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,6,21,0,Skeena Queen,35,39
+8,Horseshoe Bay,Bowen Island,2022,6,6,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,6,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,6,8,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,6,9,5,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,6,10,15,Queen of Capilano,20,15
+8,Horseshoe Bay,Bowen Island,2022,6,6,11,25,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,6,12,35,Queen of Capilano,20,15
+8,Horseshoe Bay,Bowen Island,2022,6,6,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,6,15,30,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,6,16,35,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,6,17,45,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,6,18,50,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,6,20,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,6,21,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,6,22,0,Queen of Capilano,20,16
+30,Duke Point,Tsawwassen,2022,6,6,5,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,6,5,15,Queen of Alberni,120,123
+30,Duke Point,Tsawwassen,2022,6,6,7,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,6,7,45,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,6,10,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,6,10,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,6,12,45,Queen of Alberni,120,123
+30,Tsawwassen,Duke Point,2022,6,6,12,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,6,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,6,15,15,Queen of Alberni,120,125
+30,Duke Point,Tsawwassen,2022,6,6,17,45,Queen of Alberni,120,125
+30,Tsawwassen,Duke Point,2022,6,6,17,45,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,6,20,15,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,6,20,15,Queen of Alberni,120,119
+30,Duke Point,Tsawwassen,2022,6,6,22,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,6,22,45,Coastal Renaissance,120,124
+1,Swartz Bay,Tsawwassen,2022,6,7,7,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,7,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,7,9,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,7,9,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,7,11,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,7,11,0,Spirit of British Columbia,95,114
+1,Tsawwassen,Swartz Bay,2022,6,7,12,0,Queen of New Westminster,95,102
+1,Swartz Bay,Tsawwassen,2022,6,7,13,0,Spirit of British Columbia,95,116
+1,Tsawwassen,Swartz Bay,2022,6,7,13,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,7,14,0,Queen of New Westminster,95,103
+1,Swartz Bay,Tsawwassen,2022,6,7,15,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,6,7,15,0,Spirit of British Columbia,95,120
+1,Tsawwassen,Swartz Bay,2022,6,7,16,0,Queen of New Westminster,95,102
+1,Swartz Bay,Tsawwassen,2022,6,7,17,0,Spirit of British Columbia,95,116
+1,Tsawwassen,Swartz Bay,2022,6,7,17,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,7,18,0,Queen of New Westminster,95,106
+1,Swartz Bay,Tsawwassen,2022,6,7,19,0,Coastal Celebration,95,82
+1,Tsawwassen,Swartz Bay,2022,6,7,19,0,Spirit of British Columbia,95,138
+1,Swartz Bay,Tsawwassen,2022,6,7,21,0,Spirit of British Columbia,95,126
+1,Tsawwassen,Swartz Bay,2022,6,7,21,0,Coastal Celebration,95,87
+2,Departure Bay,Horseshoe Bay,2022,6,7,6,15,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,7,6,15,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,7,8,25,Queen of Oak Bay,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,7,8,25,Queen of Cowichan,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,7,10,40,Queen of Cowichan,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,7,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,7,13,0,Queen of Oak Bay,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,7,13,0,Queen of Cowichan,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,7,14,45,Queen of Coquitlam,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,7,15,20,Queen of Cowichan,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,7,15,45,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,7,17,40,Queen of Cowichan,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,7,17,55,Queen of Oak Bay,100,126
+2,Horseshoe Bay,Departure Bay,2022,6,7,19,30,Queen of Coquitlam,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,7,20,5,Queen of Oak Bay,100,115
+2,Departure Bay,Horseshoe Bay,2022,6,7,22,10,Queen of Oak Bay,100,120
+3,Langdale,Horseshoe Bay,2022,6,7,6,20,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,7,7,30,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,7,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,7,9,50,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,7,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,7,12,10,Queen of Surrey,40,50
+3,Langdale,Horseshoe Bay,2022,6,7,13,15,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,7,14,25,Queen of Surrey,40,51
+3,Langdale,Horseshoe Bay,2022,6,7,15,35,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,7,16,45,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,7,17,30,Queen of Coquitlam,40,49
+3,Langdale,Horseshoe Bay,2022,6,7,17,55,Queen of Surrey,40,51
+3,Langdale,Horseshoe Bay,2022,6,7,18,30,Queen of Coquitlam,40,42
+3,Horseshoe Bay,Langdale,2022,6,7,19,5,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,7,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,7,21,25,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,7,22,30,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,7,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,7,7,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,7,9,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,7,11,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,7,13,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,7,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,7,17,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,7,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,7,21,0,Skeena Queen,35,26
+8,Horseshoe Bay,Bowen Island,2022,6,7,5,50,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,7,6,50,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,7,8,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,7,9,5,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,7,10,15,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,7,11,25,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,7,12,35,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,7,14,20,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,7,15,30,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,7,16,35,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,7,17,45,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,7,18,50,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,7,20,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,7,21,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,7,22,0,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,7,5,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,7,5,15,Queen of Alberni,120,123
+30,Duke Point,Tsawwassen,2022,6,7,7,45,Queen of Alberni,120,121
+30,Tsawwassen,Duke Point,2022,6,7,7,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,7,10,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,7,10,15,Queen of Alberni,120,127
+30,Duke Point,Tsawwassen,2022,6,7,12,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,7,12,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,7,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,7,17,45,Coastal Renaissance,120,111
+30,Duke Point,Tsawwassen,2022,6,7,20,15,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,7,22,45,Coastal Renaissance,120,120
+1,Swartz Bay,Tsawwassen,2022,6,8,7,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,8,7,0,Spirit of British Columbia,95,111
+1,Swartz Bay,Tsawwassen,2022,6,8,9,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,6,8,9,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,8,11,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,8,11,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,6,8,12,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,8,13,0,Spirit of British Columbia,95,112
+1,Tsawwassen,Swartz Bay,2022,6,8,13,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,8,14,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,8,15,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,8,15,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,6,8,16,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,6,8,17,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,6,8,17,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,8,18,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,6,8,19,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,6,8,19,0,Spirit of British Columbia,95,110
+1,Swartz Bay,Tsawwassen,2022,6,8,21,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,8,21,0,Coastal Celebration,95,90
+2,Departure Bay,Horseshoe Bay,2022,6,8,6,15,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,8,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,8,8,25,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,8,8,25,Queen of Cowichan,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,8,10,40,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,8,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,8,13,0,Queen of Oak Bay,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,8,13,0,Queen of Cowichan,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,8,14,45,Queen of Coquitlam,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,8,15,20,Queen of Cowichan,100,100
+2,Horseshoe Bay,Departure Bay,2022,6,8,15,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,8,17,40,Queen of Cowichan,100,104
+2,Departure Bay,Horseshoe Bay,2022,6,8,17,55,Queen of Oak Bay,100,121
+2,Horseshoe Bay,Departure Bay,2022,6,8,19,30,Queen of Coquitlam,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,8,20,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,8,22,10,Queen of Oak Bay,100,115
+3,Langdale,Horseshoe Bay,2022,6,8,6,20,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,8,7,30,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,8,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,8,9,50,Queen of Surrey,40,34
+3,Langdale,Horseshoe Bay,2022,6,8,11,0,Queen of Surrey,40,36
+3,Horseshoe Bay,Langdale,2022,6,8,12,10,Queen of Surrey,40,34
+3,Langdale,Horseshoe Bay,2022,6,8,13,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,8,14,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,8,15,35,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,8,16,45,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,8,17,30,Queen of Coquitlam,40,42
+3,Langdale,Horseshoe Bay,2022,6,8,17,55,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,8,18,25,Queen of Coquitlam,40,45
+3,Horseshoe Bay,Langdale,2022,6,8,19,5,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,8,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,8,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,8,22,30,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,8,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,8,7,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,8,9,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,8,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,8,13,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,8,15,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,8,17,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,8,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,8,21,0,Skeena Queen,35,38
+8,Horseshoe Bay,Bowen Island,2022,6,8,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,8,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,8,8,0,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,8,9,5,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,8,10,15,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,8,11,25,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,8,12,35,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,8,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,8,15,30,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,8,16,35,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,8,17,45,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,8,18,50,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,8,20,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,8,21,0,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,8,22,0,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,8,5,15,Coastal Renaissance,120,145
+30,Tsawwassen,Duke Point,2022,6,8,5,15,Queen of Alberni,120,114
+30,Duke Point,Tsawwassen,2022,6,8,7,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,8,7,45,Coastal Renaissance,120,137
+30,Duke Point,Tsawwassen,2022,6,8,10,15,Coastal Renaissance,120,129
+30,Tsawwassen,Duke Point,2022,6,8,10,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,8,12,45,Queen of Alberni,120,113
+30,Tsawwassen,Duke Point,2022,6,8,12,45,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,8,15,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,8,15,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,8,17,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,8,17,45,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,8,20,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,8,20,15,Queen of Alberni,120,123
+30,Duke Point,Tsawwassen,2022,6,8,22,45,Queen of Alberni,120,122
+30,Tsawwassen,Duke Point,2022,6,8,22,45,Coastal Renaissance,120,123
+1,Swartz Bay,Tsawwassen,2022,6,9,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,9,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,9,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,9,9,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,9,9,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,9,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,9,11,0,Spirit of Vancouver Island,95,91
+1,Tsawwassen,Swartz Bay,2022,6,9,11,0,Spirit of British Columbia,95,95
+1,Swartz Bay,Tsawwassen,2022,6,9,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,9,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,9,13,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,9,13,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,6,9,14,0,Queen of New Westminster,95,100
+1,Tsawwassen,Swartz Bay,2022,6,9,14,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,9,15,0,Spirit of Vancouver Island,95,106
+1,Tsawwassen,Swartz Bay,2022,6,9,15,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,9,16,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,6,9,16,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,9,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,9,17,0,Spirit of Vancouver Island,95,109
+1,Swartz Bay,Tsawwassen,2022,6,9,18,0,Queen of New Westminster,95,85
+1,Tsawwassen,Swartz Bay,2022,6,9,18,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,9,19,0,Spirit of Vancouver Island,95,104
+1,Tsawwassen,Swartz Bay,2022,6,9,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,9,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,9,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,6,9,21,0,Spirit of Vancouver Island,95,103
+1,Tsawwassen,Swartz Bay,2022,6,9,22,0,Coastal Celebration,95,86
+2,Departure Bay,Horseshoe Bay,2022,6,9,6,15,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,9,6,15,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,9,8,25,Queen of Oak Bay,100,123
+2,Horseshoe Bay,Departure Bay,2022,6,9,8,25,Queen of Cowichan,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,9,10,40,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,9,10,40,Queen of Oak Bay,100,127
+2,Departure Bay,Horseshoe Bay,2022,6,9,13,0,Queen of Oak Bay,100,128
+2,Horseshoe Bay,Departure Bay,2022,6,9,13,0,Queen of Cowichan,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,9,14,45,Queen of Coquitlam,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,9,15,20,Queen of Cowichan,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,9,15,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,9,17,40,Queen of Cowichan,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,9,17,55,Queen of Oak Bay,100,125
+2,Horseshoe Bay,Departure Bay,2022,6,9,19,30,Queen of Coquitlam,100,131
+2,Horseshoe Bay,Departure Bay,2022,6,9,20,5,Queen of Oak Bay,100,129
+2,Departure Bay,Horseshoe Bay,2022,6,9,22,10,Queen of Oak Bay,100,126
+3,Langdale,Horseshoe Bay,2022,6,9,6,20,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,9,7,30,Queen of Surrey,40,35
+3,Langdale,Horseshoe Bay,2022,6,9,8,40,Queen of Surrey,40,36
+3,Horseshoe Bay,Langdale,2022,6,9,9,50,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,9,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,9,12,10,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,9,13,15,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,9,14,25,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,9,15,35,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,9,16,45,Queen of Surrey,40,46
+3,Horseshoe Bay,Langdale,2022,6,9,17,30,Queen of Coquitlam,40,56
+3,Langdale,Horseshoe Bay,2022,6,9,17,55,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,9,18,35,Queen of Coquitlam,40,53
+3,Horseshoe Bay,Langdale,2022,6,9,19,5,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,9,20,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,9,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,9,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,9,23,30,Queen of Surrey,40,42
+4,Swartz Bay,Fulford Harbour,2022,6,9,7,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,9,9,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,9,11,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,9,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,9,15,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,9,17,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,9,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,9,21,0,Skeena Queen,35,24
+8,Horseshoe Bay,Bowen Island,2022,6,9,5,50,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,9,6,50,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,9,8,0,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,9,9,5,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,9,10,15,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,9,11,25,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,9,12,35,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,9,14,20,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,9,15,30,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,9,16,35,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,9,17,45,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,9,18,50,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,9,20,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,9,21,0,Queen of Capilano,20,14
+8,Horseshoe Bay,Bowen Island,2022,6,9,22,0,Queen of Capilano,20,16
+30,Duke Point,Tsawwassen,2022,6,9,5,15,Coastal Renaissance,120,124
+30,Tsawwassen,Duke Point,2022,6,9,5,15,Queen of Alberni,120,115
+30,Duke Point,Tsawwassen,2022,6,9,7,45,Queen of Alberni,120,118
+30,Tsawwassen,Duke Point,2022,6,9,7,45,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,9,10,15,Coastal Renaissance,120,131
+30,Tsawwassen,Duke Point,2022,6,9,10,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,9,12,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,9,12,45,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,9,15,15,Coastal Renaissance,120,133
+30,Tsawwassen,Duke Point,2022,6,9,15,15,Queen of Alberni,120,120
+30,Duke Point,Tsawwassen,2022,6,9,17,45,Queen of Alberni,120,129
+30,Tsawwassen,Duke Point,2022,6,9,17,45,Coastal Renaissance,120,129
+30,Duke Point,Tsawwassen,2022,6,9,20,15,Coastal Renaissance,120,137
+30,Tsawwassen,Duke Point,2022,6,9,20,15,Queen of Alberni,120,126
+30,Duke Point,Tsawwassen,2022,6,9,22,45,Queen of Alberni,120,125
+30,Tsawwassen,Duke Point,2022,6,9,22,45,Coastal Renaissance,120,137
+1,Swartz Bay,Tsawwassen,2022,6,10,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,10,8,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,10,8,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,10,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,10,9,0,Spirit of Vancouver Island,95,97
+1,Swartz Bay,Tsawwassen,2022,6,10,10,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,10,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,10,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,10,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,10,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,10,13,0,Spirit of Vancouver Island,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,14,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,6,10,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,15,0,Spirit of Vancouver Island,95,108
+1,Tsawwassen,Swartz Bay,2022,6,10,15,0,Spirit of British Columbia,95,101
+1,Swartz Bay,Tsawwassen,2022,6,10,16,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,17,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,10,17,0,Spirit of Vancouver Island,95,105
+1,Tsawwassen,Swartz Bay,2022,6,10,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,10,19,0,Spirit of Vancouver Island,95,110
+1,Tsawwassen,Swartz Bay,2022,6,10,19,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,10,20,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,10,21,0,Spirit of British Columbia,95,87
+1,Tsawwassen,Swartz Bay,2022,6,10,21,0,Spirit of Vancouver Island,95,111
+1,Tsawwassen,Swartz Bay,2022,6,10,22,0,Coastal Celebration,95,85
+2,Departure Bay,Horseshoe Bay,2022,6,10,6,15,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,10,6,15,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,10,8,25,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,10,8,25,Queen of Cowichan,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,10,9,30,Queen of Coquitlam,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,10,10,40,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,10,10,40,Queen of Oak Bay,100,122
+2,Horseshoe Bay,Departure Bay,2022,6,10,12,0,Queen of Coquitlam,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,10,13,0,Queen of Oak Bay,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,10,13,0,Queen of Cowichan,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,10,15,20,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,10,15,45,Queen of Oak Bay,100,115
+2,Departure Bay,Horseshoe Bay,2022,6,10,15,50,Queen of Coquitlam,100,84
+2,Horseshoe Bay,Departure Bay,2022,6,10,17,40,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,10,17,55,Queen of Oak Bay,100,121
+2,Horseshoe Bay,Departure Bay,2022,6,10,19,30,Queen of Coquitlam,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,10,20,5,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,10,20,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,10,22,10,Queen of Oak Bay,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,10,22,10,Queen of Cowichan,100,104
+3,Langdale,Horseshoe Bay,2022,6,10,6,20,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,10,7,30,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,10,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,10,9,49,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,10,12,9,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,10,14,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,10,15,35,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,10,16,45,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,10,17,30,Queen of Coquitlam,40,43
+3,Langdale,Horseshoe Bay,2022,6,10,17,55,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,10,18,45,Queen of Coquitlam,40,27
+3,Horseshoe Bay,Langdale,2022,6,10,19,5,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,10,20,15,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,10,21,25,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,10,22,30,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,10,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,10,7,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,10,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,10,11,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,10,13,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,10,15,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,10,17,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,10,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,10,21,0,Skeena Queen,35,25
+8,Horseshoe Bay,Bowen Island,2022,6,10,5,50,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,10,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,10,8,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,10,9,5,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,10,10,15,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,10,11,25,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,10,12,35,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,10,14,20,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,10,15,30,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,10,16,35,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,10,17,45,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,10,18,50,Queen of Capilano,20,41
+8,Horseshoe Bay,Bowen Island,2022,6,10,20,0,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,10,21,0,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,10,22,0,Queen of Capilano,20,19
+30,Duke Point,Tsawwassen,2022,6,10,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,10,5,15,Queen of Alberni,120,118
+30,Duke Point,Tsawwassen,2022,6,10,7,45,Queen of Alberni,120,115
+30,Tsawwassen,Duke Point,2022,6,10,7,45,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,10,10,15,Coastal Renaissance,120,128
+30,Tsawwassen,Duke Point,2022,6,10,10,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,10,12,45,Queen of Alberni,120,121
+30,Tsawwassen,Duke Point,2022,6,10,12,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,10,15,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,10,15,15,Queen of Alberni,120,121
+30,Duke Point,Tsawwassen,2022,6,10,17,45,Queen of Alberni,120,123
+30,Tsawwassen,Duke Point,2022,6,10,17,45,Coastal Renaissance,120,129
+30,Duke Point,Tsawwassen,2022,6,10,20,15,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,10,20,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,10,22,45,Queen of Alberni,120,118
+30,Tsawwassen,Duke Point,2022,6,10,22,45,Coastal Renaissance,120,128
+1,Swartz Bay,Tsawwassen,2022,6,11,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,11,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,11,8,0,Coastal Celebration,95,89
+1,Tsawwassen,Swartz Bay,2022,6,11,8,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,6,11,9,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,11,9,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,6,11,10,0,Queen of New Westminster,95,85
+1,Tsawwassen,Swartz Bay,2022,6,11,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,11,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,11,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,11,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,11,12,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,11,13,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,6,11,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,6,11,14,0,Queen of New Westminster,95,85
+1,Tsawwassen,Swartz Bay,2022,6,11,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,11,15,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,11,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,11,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,11,17,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,6,11,19,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,11,19,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,11,21,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,11,21,0,Spirit of Vancouver Island,95,92
+2,Departure Bay,Horseshoe Bay,2022,6,11,6,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,11,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,11,8,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,11,8,25,Queen of Cowichan,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,11,10,40,Queen of Cowichan,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,11,10,40,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,11,13,0,Queen of Oak Bay,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,11,13,0,Queen of Cowichan,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,11,15,20,Queen of Cowichan,100,100
+2,Horseshoe Bay,Departure Bay,2022,6,11,15,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,11,17,40,Queen of Cowichan,100,100
+2,Departure Bay,Horseshoe Bay,2022,6,11,17,55,Queen of Oak Bay,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,11,20,5,Queen of Oak Bay,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,11,22,10,Queen of Oak Bay,100,116
+3,Langdale,Horseshoe Bay,2022,6,11,6,20,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,11,7,30,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,11,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,11,9,50,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,11,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,11,12,10,Queen of Surrey,40,36
+3,Langdale,Horseshoe Bay,2022,6,11,13,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,11,14,25,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,11,15,35,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,11,16,45,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,11,17,55,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,11,19,5,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,11,20,15,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,11,21,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,11,22,30,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,11,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,11,7,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,11,9,0,Skeena Queen,35,35
+4,Swartz Bay,Fulford Harbour,2022,6,11,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,11,13,0,Skeena Queen,35,35
+4,Swartz Bay,Fulford Harbour,2022,6,11,15,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,11,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,11,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,11,21,0,Skeena Queen,35,26
+8,Horseshoe Bay,Bowen Island,2022,6,11,5,50,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,11,6,50,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,11,8,0,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,11,9,5,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,11,10,15,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,11,11,25,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,11,12,35,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,11,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,11,15,30,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,11,16,35,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,11,17,45,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,11,18,50,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,11,21,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,11,22,0,Queen of Capilano,20,14
+30,Duke Point,Tsawwassen,2022,6,11,5,15,Coastal Renaissance,120,126
+30,Tsawwassen,Duke Point,2022,6,11,5,15,Queen of Alberni,120,112
+30,Duke Point,Tsawwassen,2022,6,11,7,45,Queen of Alberni,120,116
+30,Tsawwassen,Duke Point,2022,6,11,7,45,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,11,10,15,Coastal Renaissance,120,124
+30,Tsawwassen,Duke Point,2022,6,11,10,15,Queen of Alberni,120,114
+30,Duke Point,Tsawwassen,2022,6,11,12,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,11,12,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,11,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,11,15,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,11,17,45,Queen of Alberni,120,127
+30,Tsawwassen,Duke Point,2022,6,11,17,45,Coastal Renaissance,120,121
+1,Swartz Bay,Tsawwassen,2022,6,12,7,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,12,7,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,12,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,12,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,12,9,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,6,12,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,12,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,12,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,12,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,12,12,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,12,13,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,12,13,0,Spirit of Vancouver Island,95,108
+1,Swartz Bay,Tsawwassen,2022,6,12,14,0,Queen of New Westminster,95,98
+1,Tsawwassen,Swartz Bay,2022,6,12,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,12,15,0,Spirit of Vancouver Island,95,108
+1,Tsawwassen,Swartz Bay,2022,6,12,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,6,12,16,0,Coastal Celebration,95,100
+1,Swartz Bay,Tsawwassen,2022,6,12,17,0,Spirit of British Columbia,95,107
+1,Tsawwassen,Swartz Bay,2022,6,12,17,0,Spirit of Vancouver Island,95,112
+1,Tsawwassen,Swartz Bay,2022,6,12,18,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,12,19,0,Spirit of Vancouver Island,95,116
+1,Tsawwassen,Swartz Bay,2022,6,12,19,0,Spirit of British Columbia,95,105
+1,Swartz Bay,Tsawwassen,2022,6,12,20,0,Coastal Celebration,95,105
+1,Swartz Bay,Tsawwassen,2022,6,12,21,0,Spirit of British Columbia,95,93
+1,Tsawwassen,Swartz Bay,2022,6,12,21,0,Spirit of Vancouver Island,95,117
+1,Tsawwassen,Swartz Bay,2022,6,12,22,0,Coastal Celebration,95,96
+2,Departure Bay,Horseshoe Bay,2022,6,12,6,15,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,12,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,12,8,25,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,12,8,25,Queen of Cowichan,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,12,10,40,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,12,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,12,11,15,Queen of Coquitlam,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,12,13,0,Queen of Oak Bay,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,12,13,0,Queen of Cowichan,100,114
+2,Horseshoe Bay,Departure Bay,2022,6,12,15,15,Queen of Coquitlam,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,12,15,20,Queen of Cowichan,100,115
+2,Horseshoe Bay,Departure Bay,2022,6,12,15,45,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,12,17,25,Queen of Coquitlam,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,12,17,40,Queen of Cowichan,100,122
+2,Departure Bay,Horseshoe Bay,2022,6,12,17,55,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,12,19,30,Queen of Coquitlam,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,12,20,5,Queen of Cowichan,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,12,20,5,Queen of Oak Bay,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,12,22,10,Queen of Oak Bay,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,12,22,10,Queen of Cowichan,100,124
+3,Langdale,Horseshoe Bay,2022,6,12,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,12,7,30,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,12,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,12,9,50,Queen of Surrey,40,36
+3,Langdale,Horseshoe Bay,2022,6,12,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,12,12,10,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,12,13,15,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,12,14,15,Queen of Coquitlam,40,37
+3,Horseshoe Bay,Langdale,2022,6,12,14,25,Queen of Surrey,40,36
+3,Langdale,Horseshoe Bay,2022,6,12,15,35,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,12,16,45,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,12,17,55,Queen of Surrey,40,56
+3,Horseshoe Bay,Langdale,2022,6,12,19,5,Queen of Surrey,40,55
+3,Langdale,Horseshoe Bay,2022,6,12,20,15,Queen of Surrey,40,53
+3,Horseshoe Bay,Langdale,2022,6,12,21,25,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,12,22,30,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,12,23,30,Queen of Surrey,40,44
+4,Swartz Bay,Fulford Harbour,2022,6,12,9,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,12,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,12,13,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,12,15,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,12,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,12,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,12,21,0,Skeena Queen,35,31
+8,Horseshoe Bay,Bowen Island,2022,6,12,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,12,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,12,8,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,12,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,12,10,15,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,12,11,25,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,12,12,35,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,12,14,20,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,12,15,30,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,12,16,35,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,12,17,45,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,12,18,50,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,12,20,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,12,21,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,12,22,0,Queen of Capilano,20,20
+30,Duke Point,Tsawwassen,2022,6,12,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,12,10,15,Queen of Alberni,120,133
+30,Duke Point,Tsawwassen,2022,6,12,12,45,Queen of Alberni,120,129
+30,Tsawwassen,Duke Point,2022,6,12,12,45,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,12,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,12,15,15,Queen of Alberni,120,127
+30,Duke Point,Tsawwassen,2022,6,12,17,45,Queen of Alberni,120,130
+30,Tsawwassen,Duke Point,2022,6,12,17,45,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,12,20,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,12,20,15,Queen of Alberni,120,135
+30,Duke Point,Tsawwassen,2022,6,12,22,45,Queen of Alberni,120,137
+30,Tsawwassen,Duke Point,2022,6,12,22,45,Coastal Renaissance,120,125
+1,Swartz Bay,Tsawwassen,2022,6,13,7,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,13,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,13,8,0,Coastal Celebration,95,101
+1,Tsawwassen,Swartz Bay,2022,6,13,8,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,13,9,0,Spirit of British Columbia,95,91
+1,Tsawwassen,Swartz Bay,2022,6,13,9,0,Spirit of Vancouver Island,95,105
+1,Swartz Bay,Tsawwassen,2022,6,13,10,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,6,13,10,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,13,11,0,Spirit of Vancouver Island,95,104
+1,Tsawwassen,Swartz Bay,2022,6,13,11,0,Spirit of British Columbia,95,95
+1,Swartz Bay,Tsawwassen,2022,6,13,12,0,Coastal Celebration,95,93
+1,Tsawwassen,Swartz Bay,2022,6,13,12,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,6,13,13,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,13,13,0,Spirit of Vancouver Island,95,108
+1,Swartz Bay,Tsawwassen,2022,6,13,14,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,13,14,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,13,15,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,6,13,15,0,Spirit of British Columbia,95,86
+1,Swartz Bay,Tsawwassen,2022,6,13,16,0,Coastal Celebration,95,136
+1,Tsawwassen,Swartz Bay,2022,6,13,16,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,13,17,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,13,17,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,13,18,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,13,18,0,Coastal Celebration,95,122
+1,Swartz Bay,Tsawwassen,2022,6,13,19,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,13,19,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,13,21,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,13,21,0,Spirit of Vancouver Island,95,88
+2,Departure Bay,Horseshoe Bay,2022,6,13,6,15,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,13,6,15,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,13,8,25,Queen of Oak Bay,100,102
+2,Horseshoe Bay,Departure Bay,2022,6,13,8,25,Queen of Cowichan,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,13,10,40,Queen of Cowichan,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,13,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,13,13,0,Queen of Oak Bay,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,13,13,0,Queen of Cowichan,100,118
+2,Departure Bay,Horseshoe Bay,2022,6,13,14,45,Queen of Coquitlam,100,128
+2,Departure Bay,Horseshoe Bay,2022,6,13,15,20,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,13,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,13,17,40,Queen of Cowichan,100,120
+2,Departure Bay,Horseshoe Bay,2022,6,13,17,55,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,13,20,5,Queen of Oak Bay,100,123
+2,Departure Bay,Horseshoe Bay,2022,6,13,22,10,Queen of Oak Bay,100,129
+3,Langdale,Horseshoe Bay,2022,6,13,6,20,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,13,7,30,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,13,8,40,Queen of Surrey,40,46
+3,Horseshoe Bay,Langdale,2022,6,13,9,50,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,13,11,0,Queen of Surrey,40,52
+3,Horseshoe Bay,Langdale,2022,6,13,12,10,Queen of Surrey,40,54
+3,Langdale,Horseshoe Bay,2022,6,13,13,15,Queen of Surrey,40,65
+3,Horseshoe Bay,Langdale,2022,6,13,14,25,Queen of Surrey,40,66
+3,Langdale,Horseshoe Bay,2022,6,13,15,35,Queen of Surrey,40,73
+3,Horseshoe Bay,Langdale,2022,6,13,16,45,Queen of Surrey,40,75
+3,Horseshoe Bay,Langdale,2022,6,13,17,30,Queen of Coquitlam,40,74
+3,Langdale,Horseshoe Bay,2022,6,13,17,55,Queen of Surrey,40,77
+3,Langdale,Horseshoe Bay,2022,6,13,18,25,Queen of Coquitlam,40,85
+3,Horseshoe Bay,Langdale,2022,6,13,19,5,Queen of Surrey,40,69
+3,Langdale,Horseshoe Bay,2022,6,13,20,15,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,13,21,25,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,13,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,13,7,0,Skeena Queen,35,35
+4,Swartz Bay,Fulford Harbour,2022,6,13,9,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,13,11,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,13,13,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,13,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,13,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,13,19,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,13,21,0,Skeena Queen,35,26
+8,Horseshoe Bay,Bowen Island,2022,6,13,5,50,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,13,6,50,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,13,8,0,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,13,9,5,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,13,10,15,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,13,11,25,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,13,12,35,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,13,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,13,15,30,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,13,16,35,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,13,17,45,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,13,18,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,13,20,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,13,21,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,13,22,0,Queen of Capilano,20,20
+30,Duke Point,Tsawwassen,2022,6,13,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,13,5,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,13,7,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,13,7,45,Coastal Renaissance,120,128
+30,Duke Point,Tsawwassen,2022,6,13,10,15,Coastal Renaissance,120,128
+30,Tsawwassen,Duke Point,2022,6,13,10,15,Queen of Alberni,120,123
+30,Duke Point,Tsawwassen,2022,6,13,12,45,Queen of Alberni,120,121
+30,Tsawwassen,Duke Point,2022,6,13,12,45,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,13,15,15,Coastal Renaissance,120,129
+30,Tsawwassen,Duke Point,2022,6,13,15,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,13,17,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,13,17,45,Coastal Renaissance,120,129
+30,Duke Point,Tsawwassen,2022,6,13,20,15,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,13,20,15,Queen of Alberni,120,119
+30,Duke Point,Tsawwassen,2022,6,13,22,45,Queen of Alberni,120,118
+30,Tsawwassen,Duke Point,2022,6,13,22,45,Coastal Renaissance,120,122
+1,Swartz Bay,Tsawwassen,2022,6,15,7,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,6,15,7,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,15,8,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,15,9,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,6,15,9,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,15,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,15,11,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,15,11,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,15,12,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,6,15,12,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,15,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,15,13,0,Spirit of Vancouver Island,95,95
+1,Swartz Bay,Tsawwassen,2022,6,15,14,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,6,15,14,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,15,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,15,15,0,Spirit of British Columbia,95,102
+1,Swartz Bay,Tsawwassen,2022,6,15,16,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,6,15,16,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,15,17,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,15,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,15,18,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,6,15,18,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,15,19,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,15,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,15,21,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,15,21,0,Spirit of Vancouver Island,95,90
+2,Departure Bay,Horseshoe Bay,2022,6,15,6,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,15,6,15,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,15,8,25,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,15,8,25,Queen of Cowichan,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,15,10,40,Queen of Cowichan,100,126
+2,Horseshoe Bay,Departure Bay,2022,6,15,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,15,13,0,Queen of Oak Bay,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,15,13,0,Queen of Cowichan,100,132
+2,Departure Bay,Horseshoe Bay,2022,6,15,14,45,Queen of Coquitlam,100,124
+2,Departure Bay,Horseshoe Bay,2022,6,15,15,20,Queen of Cowichan,100,124
+2,Horseshoe Bay,Departure Bay,2022,6,15,15,45,Queen of Oak Bay,100,152
+2,Horseshoe Bay,Departure Bay,2022,6,15,17,40,Queen of Cowichan,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,15,17,55,Queen of Oak Bay,100,159
+2,Horseshoe Bay,Departure Bay,2022,6,15,19,30,Queen of Coquitlam,100,142
+2,Horseshoe Bay,Departure Bay,2022,6,15,20,5,Queen of Oak Bay,100,155
+2,Departure Bay,Horseshoe Bay,2022,6,15,22,10,Queen of Oak Bay,100,154
+3,Langdale,Horseshoe Bay,2022,6,15,6,20,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,15,7,30,Queen of Surrey,40,50
+3,Langdale,Horseshoe Bay,2022,6,15,8,40,Queen of Surrey,40,48
+3,Horseshoe Bay,Langdale,2022,6,15,9,50,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,15,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,15,12,10,Queen of Surrey,40,51
+3,Langdale,Horseshoe Bay,2022,6,15,13,15,Queen of Surrey,40,53
+3,Horseshoe Bay,Langdale,2022,6,15,14,25,Queen of Surrey,40,54
+3,Langdale,Horseshoe Bay,2022,6,15,15,35,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,15,16,45,Queen of Surrey,40,63
+3,Horseshoe Bay,Langdale,2022,6,15,17,30,Queen of Coquitlam,40,58
+3,Langdale,Horseshoe Bay,2022,6,15,18,30,Queen of Coquitlam,40,70
+3,Horseshoe Bay,Langdale,2022,6,15,19,5,Queen of Surrey,40,63
+3,Langdale,Horseshoe Bay,2022,6,15,20,15,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,15,21,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,15,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,15,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,15,7,0,Skeena Queen,35,42
+4,Swartz Bay,Fulford Harbour,2022,6,15,9,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,15,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,15,13,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,15,15,0,Skeena Queen,35,29
+4,Swartz Bay,Fulford Harbour,2022,6,15,17,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,15,19,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,15,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,15,5,50,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,15,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,15,8,0,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,15,9,5,Queen of Capilano,20,49
+8,Horseshoe Bay,Bowen Island,2022,6,15,10,15,Queen of Capilano,20,41
+8,Horseshoe Bay,Bowen Island,2022,6,15,11,25,Queen of Capilano,20,41
+8,Horseshoe Bay,Bowen Island,2022,6,15,12,35,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,15,14,20,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,15,15,30,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,15,16,35,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,15,17,45,Queen of Capilano,20,32
+8,Horseshoe Bay,Bowen Island,2022,6,15,18,50,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,15,20,0,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,15,21,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,15,22,0,Queen of Capilano,20,20
+30,Duke Point,Tsawwassen,2022,6,15,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,15,5,15,Queen of Alberni,120,119
+30,Duke Point,Tsawwassen,2022,6,15,7,45,Queen of Alberni,120,113
+30,Tsawwassen,Duke Point,2022,6,15,7,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,15,10,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,15,10,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,15,12,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,15,12,45,Coastal Renaissance,120,129
+30,Duke Point,Tsawwassen,2022,6,15,15,15,Coastal Renaissance,120,133
+30,Tsawwassen,Duke Point,2022,6,15,15,15,Queen of Alberni,120,121
+30,Duke Point,Tsawwassen,2022,6,15,17,45,Queen of Alberni,120,131
+30,Tsawwassen,Duke Point,2022,6,15,17,45,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,15,20,15,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,15,20,15,Queen of Alberni,120,165
+30,Duke Point,Tsawwassen,2022,6,15,22,45,Queen of Alberni,120,163
+30,Tsawwassen,Duke Point,2022,6,15,22,45,Coastal Renaissance,120,123
+1,Swartz Bay,Tsawwassen,2022,6,16,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,16,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,16,8,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,16,9,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,16,9,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,16,10,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,16,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,16,11,0,Spirit of British Columbia,95,106
+1,Swartz Bay,Tsawwassen,2022,6,16,12,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,16,12,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,16,13,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,6,16,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,16,14,0,Queen of New Westminster,95,94
+1,Tsawwassen,Swartz Bay,2022,6,16,14,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,16,15,0,Spirit of Vancouver Island,95,87
+1,Tsawwassen,Swartz Bay,2022,6,16,15,0,Spirit of British Columbia,95,114
+1,Swartz Bay,Tsawwassen,2022,6,16,16,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,6,16,16,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,16,17,0,Spirit of British Columbia,95,112
+1,Tsawwassen,Swartz Bay,2022,6,16,17,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,16,18,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,6,16,18,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,16,19,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,16,19,0,Spirit of British Columbia,95,106
+1,Swartz Bay,Tsawwassen,2022,6,16,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,16,21,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,6,16,21,0,Spirit of Vancouver Island,95,84
+1,Tsawwassen,Swartz Bay,2022,6,16,22,0,Coastal Celebration,95,82
+2,Departure Bay,Horseshoe Bay,2022,6,16,6,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,16,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,16,8,25,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,16,8,25,Queen of Cowichan,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,16,10,40,Queen of Cowichan,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,16,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,16,13,0,Queen of Oak Bay,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,16,13,0,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,16,14,45,Queen of Coquitlam,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,16,15,20,Queen of Cowichan,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,16,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,16,17,40,Queen of Cowichan,100,128
+2,Departure Bay,Horseshoe Bay,2022,6,16,17,55,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,16,19,30,Queen of Coquitlam,100,160
+2,Horseshoe Bay,Departure Bay,2022,6,16,20,5,Queen of Oak Bay,100,159
+2,Departure Bay,Horseshoe Bay,2022,6,16,22,10,Queen of Oak Bay,100,163
+3,Langdale,Horseshoe Bay,2022,6,16,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,16,7,30,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,16,8,40,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,16,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,16,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,16,12,10,Queen of Surrey,40,46
+3,Langdale,Horseshoe Bay,2022,6,16,13,15,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,16,14,25,Queen of Surrey,40,50
+3,Langdale,Horseshoe Bay,2022,6,16,15,35,Queen of Surrey,40,57
+3,Horseshoe Bay,Langdale,2022,6,16,16,45,Queen of Surrey,40,61
+3,Horseshoe Bay,Langdale,2022,6,16,17,30,Queen of Coquitlam,40,60
+3,Langdale,Horseshoe Bay,2022,6,16,17,55,Queen of Surrey,40,57
+3,Langdale,Horseshoe Bay,2022,6,16,18,30,Queen of Coquitlam,40,72
+3,Horseshoe Bay,Langdale,2022,6,16,19,5,Queen of Surrey,40,57
+3,Langdale,Horseshoe Bay,2022,6,16,20,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,16,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,16,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,16,23,30,Queen of Surrey,40,41
+4,Swartz Bay,Fulford Harbour,2022,6,16,7,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,16,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,16,11,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,16,13,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,16,15,0,Skeena Queen,35,44
+4,Swartz Bay,Fulford Harbour,2022,6,16,17,0,Skeena Queen,35,62
+4,Swartz Bay,Fulford Harbour,2022,6,16,19,0,Skeena Queen,35,92
+4,Swartz Bay,Fulford Harbour,2022,6,16,21,0,Skeena Queen,35,70
+8,Horseshoe Bay,Bowen Island,2022,6,16,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,16,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,16,8,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,16,9,5,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,16,10,15,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,16,11,25,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,16,12,35,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,16,14,20,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,16,15,30,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,16,16,35,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,16,17,45,Queen of Capilano,20,55
+8,Horseshoe Bay,Bowen Island,2022,6,16,18,50,Queen of Capilano,20,54
+8,Horseshoe Bay,Bowen Island,2022,6,16,20,0,Queen of Capilano,20,44
+8,Horseshoe Bay,Bowen Island,2022,6,16,21,0,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,16,22,0,Queen of Capilano,20,26
+30,Duke Point,Tsawwassen,2022,6,16,5,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,16,5,15,Queen of Alberni,120,113
+30,Duke Point,Tsawwassen,2022,6,16,7,45,Queen of Alberni,120,159
+30,Tsawwassen,Duke Point,2022,6,16,7,45,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,16,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,16,10,15,Queen of Alberni,120,157
+30,Duke Point,Tsawwassen,2022,6,16,12,45,Queen of Alberni,120,160
+30,Tsawwassen,Duke Point,2022,6,16,12,45,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,16,15,15,Coastal Renaissance,120,131
+30,Tsawwassen,Duke Point,2022,6,16,15,15,Queen of Alberni,120,155
+30,Duke Point,Tsawwassen,2022,6,16,17,45,Queen of Alberni,120,153
+30,Tsawwassen,Duke Point,2022,6,16,17,45,Coastal Renaissance,120,139
+30,Duke Point,Tsawwassen,2022,6,16,20,15,Coastal Renaissance,120,135
+30,Tsawwassen,Duke Point,2022,6,16,20,15,Queen of Alberni,120,147
+30,Duke Point,Tsawwassen,2022,6,16,22,45,Queen of Alberni,120,147
+30,Tsawwassen,Duke Point,2022,6,16,22,45,Coastal Renaissance,120,141
+1,Swartz Bay,Tsawwassen,2022,6,17,7,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,6,17,7,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,17,8,0,Coastal Celebration,95,102
+1,Tsawwassen,Swartz Bay,2022,6,17,8,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,17,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,17,9,0,Spirit of Vancouver Island,95,92
+1,Swartz Bay,Tsawwassen,2022,6,17,10,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,17,10,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,17,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,17,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,17,12,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,17,12,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,6,17,13,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,17,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,6,17,14,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,17,14,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,17,15,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,17,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,6,17,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,17,17,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,17,17,0,Spirit of Vancouver Island,95,114
+1,Tsawwassen,Swartz Bay,2022,6,17,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,17,19,0,Spirit of Vancouver Island,95,102
+1,Tsawwassen,Swartz Bay,2022,6,17,19,0,Spirit of British Columbia,95,108
+1,Swartz Bay,Tsawwassen,2022,6,17,20,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,17,21,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,17,21,0,Spirit of Vancouver Island,95,107
+1,Tsawwassen,Swartz Bay,2022,6,17,22,0,Coastal Celebration,95,79
+2,Departure Bay,Horseshoe Bay,2022,6,17,6,15,Queen of Cowichan,100,125
+2,Horseshoe Bay,Departure Bay,2022,6,17,6,15,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,17,8,25,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,17,8,25,Queen of Cowichan,100,127
+2,Departure Bay,Horseshoe Bay,2022,6,17,9,30,Queen of Coquitlam,100,96
+2,Departure Bay,Horseshoe Bay,2022,6,17,10,40,Queen of Cowichan,100,116
+2,Horseshoe Bay,Departure Bay,2022,6,17,10,40,Queen of Oak Bay,100,118
+2,Horseshoe Bay,Departure Bay,2022,6,17,12,0,Queen of Coquitlam,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,17,13,0,Queen of Oak Bay,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,17,13,0,Queen of Cowichan,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,17,14,45,Queen of Coquitlam,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,17,15,20,Queen of Cowichan,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,17,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,17,17,40,Queen of Cowichan,100,118
+2,Departure Bay,Horseshoe Bay,2022,6,17,17,55,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,17,19,30,Queen of Coquitlam,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,17,20,5,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,17,20,5,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,17,22,10,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,17,22,10,Queen of Cowichan,100,112
+3,Langdale,Horseshoe Bay,2022,6,17,6,20,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,17,7,30,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,17,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,17,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,17,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,17,12,10,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,17,13,15,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,17,14,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,17,15,35,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,17,16,45,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,17,17,30,Queen of Coquitlam,40,42
+3,Langdale,Horseshoe Bay,2022,6,17,17,55,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,17,18,30,Queen of Coquitlam,40,44
+3,Horseshoe Bay,Langdale,2022,6,17,19,5,Queen of Surrey,40,46
+3,Langdale,Horseshoe Bay,2022,6,17,20,15,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,17,21,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,17,22,30,Queen of Surrey,40,46
+3,Horseshoe Bay,Langdale,2022,6,17,23,30,Queen of Surrey,40,45
+4,Swartz Bay,Fulford Harbour,2022,6,17,7,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,17,9,0,Skeena Queen,35,42
+4,Swartz Bay,Fulford Harbour,2022,6,17,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,17,13,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,17,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,17,17,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,17,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,17,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,17,5,50,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,17,6,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,17,8,0,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,17,9,5,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,17,10,15,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,17,11,25,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,17,12,35,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,17,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,17,15,30,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,17,16,35,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,17,17,45,Queen of Capilano,20,47
+8,Horseshoe Bay,Bowen Island,2022,6,17,18,50,Queen of Capilano,20,52
+8,Horseshoe Bay,Bowen Island,2022,6,17,20,0,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,17,21,0,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,17,22,0,Queen of Capilano,20,30
+30,Duke Point,Tsawwassen,2022,6,17,5,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,17,5,15,Queen of Alberni,120,113
+30,Duke Point,Tsawwassen,2022,6,17,7,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,17,7,45,Coastal Renaissance,120,135
+30,Duke Point,Tsawwassen,2022,6,17,10,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,17,10,15,Queen of Alberni,120,122
+30,Duke Point,Tsawwassen,2022,6,17,12,45,Queen of Alberni,120,115
+30,Tsawwassen,Duke Point,2022,6,17,12,45,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,17,15,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,17,15,15,Queen of Alberni,120,125
+30,Duke Point,Tsawwassen,2022,6,17,17,45,Queen of Alberni,120,117
+30,Tsawwassen,Duke Point,2022,6,17,17,45,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,17,20,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,17,20,15,Queen of Alberni,120,117
+30,Duke Point,Tsawwassen,2022,6,17,22,45,Queen of Alberni,120,119
+30,Tsawwassen,Duke Point,2022,6,17,22,45,Coastal Renaissance,120,121
+1,Swartz Bay,Tsawwassen,2022,6,18,7,0,Spirit of Vancouver Island,95,340
+1,Tsawwassen,Swartz Bay,2022,6,18,7,0,Spirit of British Columbia,95,324
+1,Swartz Bay,Tsawwassen,2022,6,18,8,0,Coastal Celebration,95,330
+1,Tsawwassen,Swartz Bay,2022,6,18,8,0,Queen of New Westminster,95,345
+1,Swartz Bay,Tsawwassen,2022,6,18,9,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,6,18,9,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,18,10,0,Queen of New Westminster,95,1278
+1,Tsawwassen,Swartz Bay,2022,6,18,10,0,Coastal Celebration,95,1277
+1,Swartz Bay,Tsawwassen,2022,6,18,11,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,18,11,0,Spirit of British Columbia,95,84
+1,Swartz Bay,Tsawwassen,2022,6,18,12,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,18,12,0,Queen of New Westminster,95,105
+1,Swartz Bay,Tsawwassen,2022,6,18,13,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,18,13,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,18,14,0,Queen of New Westminster,95,105
+1,Tsawwassen,Swartz Bay,2022,6,18,14,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,18,15,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,18,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,18,17,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,18,17,0,Spirit of Vancouver Island,95,98
+1,Swartz Bay,Tsawwassen,2022,6,18,19,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,6,18,19,0,Spirit of British Columbia,95,99
+1,Swartz Bay,Tsawwassen,2022,6,18,21,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,18,21,0,Spirit of Vancouver Island,95,107
+2,Departure Bay,Horseshoe Bay,2022,6,18,6,15,Queen of Cowichan,100,415
+2,Horseshoe Bay,Departure Bay,2022,6,18,6,15,Queen of Oak Bay,100,385
+2,Departure Bay,Horseshoe Bay,2022,6,18,8,25,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,18,8,25,Queen of Cowichan,100,145
+2,Departure Bay,Horseshoe Bay,2022,6,18,10,40,Queen of Cowichan,100,150
+2,Horseshoe Bay,Departure Bay,2022,6,18,10,40,Queen of Oak Bay,100,120
+2,Departure Bay,Horseshoe Bay,2022,6,18,13,0,Queen of Oak Bay,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,18,13,0,Queen of Cowichan,100,158
+2,Departure Bay,Horseshoe Bay,2022,6,18,15,20,Queen of Cowichan,100,152
+2,Horseshoe Bay,Departure Bay,2022,6,18,15,45,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,18,17,40,Queen of Cowichan,100,146
+2,Departure Bay,Horseshoe Bay,2022,6,18,17,55,Queen of Oak Bay,100,130
+2,Horseshoe Bay,Departure Bay,2022,6,18,20,5,Queen of Oak Bay,100,122
+2,Departure Bay,Horseshoe Bay,2022,6,18,22,10,Queen of Oak Bay,100,112
+3,Langdale,Horseshoe Bay,2022,6,18,6,20,Queen of Surrey,40,56
+3,Horseshoe Bay,Langdale,2022,6,18,7,30,Queen of Surrey,40,184
+3,Langdale,Horseshoe Bay,2022,6,18,8,40,Queen of Surrey,40,1357
+3,Horseshoe Bay,Langdale,2022,6,18,9,50,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,18,11,0,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,18,12,10,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,18,13,15,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,18,14,25,Queen of Surrey,40,63
+3,Langdale,Horseshoe Bay,2022,6,18,15,35,Queen of Surrey,40,48
+3,Horseshoe Bay,Langdale,2022,6,18,16,45,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,18,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,18,19,5,Queen of Surrey,40,61
+3,Langdale,Horseshoe Bay,2022,6,18,20,15,Queen of Surrey,40,56
+3,Horseshoe Bay,Langdale,2022,6,18,21,25,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,18,22,30,Queen of Surrey,40,60
+3,Horseshoe Bay,Langdale,2022,6,18,23,30,Queen of Surrey,40,39
+4,Swartz Bay,Fulford Harbour,2022,6,18,7,0,Skeena Queen,35,1217
+4,Swartz Bay,Fulford Harbour,2022,6,18,9,0,Skeena Queen,35,152
+4,Swartz Bay,Fulford Harbour,2022,6,18,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,18,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,18,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,18,17,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,18,19,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,18,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,18,5,50,Queen of Capilano,20,85
+8,Horseshoe Bay,Bowen Island,2022,6,18,6,50,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,18,8,0,Queen of Capilano,20,1397
+8,Horseshoe Bay,Bowen Island,2022,6,18,9,5,Queen of Capilano,20,1332
+8,Horseshoe Bay,Bowen Island,2022,6,18,10,15,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,18,11,25,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,18,12,35,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,18,14,20,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,18,15,30,Queen of Capilano,20,90
+8,Horseshoe Bay,Bowen Island,2022,6,18,16,35,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,18,17,45,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,18,18,50,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,18,21,0,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,18,22,0,Queen of Capilano,20,21
+30,Duke Point,Tsawwassen,2022,6,18,5,15,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,18,5,15,Queen of Alberni,120,120
+30,Duke Point,Tsawwassen,2022,6,18,7,45,Queen of Alberni,120,149
+30,Tsawwassen,Duke Point,2022,6,18,7,45,Coastal Renaissance,120,149
+30,Duke Point,Tsawwassen,2022,6,18,10,15,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,18,10,15,Queen of Alberni,120,125
+30,Duke Point,Tsawwassen,2022,6,18,12,45,Queen of Alberni,120,126
+30,Tsawwassen,Duke Point,2022,6,18,12,45,Coastal Renaissance,120,126
+30,Duke Point,Tsawwassen,2022,6,18,15,15,Coastal Renaissance,120,128
+30,Tsawwassen,Duke Point,2022,6,18,15,15,Queen of Alberni,120,113
+30,Duke Point,Tsawwassen,2022,6,18,17,45,Queen of Alberni,120,141
+30,Tsawwassen,Duke Point,2022,6,18,17,45,Coastal Renaissance,120,140
+1,Swartz Bay,Tsawwassen,2022,6,19,7,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,19,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,19,8,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,19,8,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,19,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,19,9,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,19,10,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,6,19,10,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,19,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,19,11,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,19,12,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,19,12,0,Queen of New Westminster,95,102
+1,Swartz Bay,Tsawwassen,2022,6,19,13,0,Spirit of British Columbia,95,170
+1,Tsawwassen,Swartz Bay,2022,6,19,13,0,Spirit of Vancouver Island,95,102
+1,Swartz Bay,Tsawwassen,2022,6,19,14,0,Queen of New Westminster,95,106
+1,Tsawwassen,Swartz Bay,2022,6,19,14,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,19,15,0,Spirit of Vancouver Island,95,108
+1,Tsawwassen,Swartz Bay,2022,6,19,15,0,Spirit of British Columbia,95,176
+1,Swartz Bay,Tsawwassen,2022,6,19,16,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,6,19,17,0,Spirit of British Columbia,95,186
+1,Tsawwassen,Swartz Bay,2022,6,19,17,0,Spirit of Vancouver Island,95,116
+1,Tsawwassen,Swartz Bay,2022,6,19,18,0,Coastal Celebration,95,112
+1,Tsawwassen,Swartz Bay,2022,6,19,19,0,Spirit of British Columbia,95,190
+1,Swartz Bay,Tsawwassen,2022,6,19,20,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,6,19,21,0,Spirit of British Columbia,95,214
+1,Tsawwassen,Swartz Bay,2022,6,19,22,0,Coastal Celebration,95,104
+2,Departure Bay,Horseshoe Bay,2022,6,19,6,15,Queen of Cowichan,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,19,6,15,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,19,8,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,19,8,25,Queen of Cowichan,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,19,10,40,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,19,10,40,Queen of Oak Bay,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,19,11,15,Queen of Coquitlam,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,19,13,0,Queen of Oak Bay,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,19,13,0,Queen of Cowichan,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,19,15,15,Queen of Coquitlam,100,135
+2,Departure Bay,Horseshoe Bay,2022,6,19,15,20,Queen of Cowichan,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,19,15,45,Queen of Oak Bay,100,133
+2,Departure Bay,Horseshoe Bay,2022,6,19,17,25,Queen of Coquitlam,100,147
+2,Horseshoe Bay,Departure Bay,2022,6,19,17,40,Queen of Cowichan,100,104
+2,Departure Bay,Horseshoe Bay,2022,6,19,17,55,Queen of Oak Bay,100,141
+2,Horseshoe Bay,Departure Bay,2022,6,19,19,30,Queen of Coquitlam,100,147
+2,Departure Bay,Horseshoe Bay,2022,6,19,20,5,Queen of Cowichan,100,97
+2,Horseshoe Bay,Departure Bay,2022,6,19,20,5,Queen of Oak Bay,100,135
+2,Departure Bay,Horseshoe Bay,2022,6,19,22,10,Queen of Oak Bay,100,136
+2,Horseshoe Bay,Departure Bay,2022,6,19,22,10,Queen of Cowichan,100,105
+3,Langdale,Horseshoe Bay,2022,6,19,6,20,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,19,7,30,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,19,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,19,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,19,11,0,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,19,12,10,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,19,13,15,Queen of Surrey,40,55
+3,Langdale,Horseshoe Bay,2022,6,19,14,15,Queen of Coquitlam,40,55
+3,Horseshoe Bay,Langdale,2022,6,19,14,25,Queen of Surrey,40,61
+3,Langdale,Horseshoe Bay,2022,6,19,15,35,Queen of Surrey,40,65
+3,Horseshoe Bay,Langdale,2022,6,19,16,45,Queen of Surrey,40,65
+3,Langdale,Horseshoe Bay,2022,6,19,17,55,Queen of Surrey,40,65
+3,Horseshoe Bay,Langdale,2022,6,19,19,5,Queen of Surrey,40,69
+3,Langdale,Horseshoe Bay,2022,6,19,20,15,Queen of Surrey,40,67
+3,Horseshoe Bay,Langdale,2022,6,19,21,25,Queen of Surrey,40,53
+3,Langdale,Horseshoe Bay,2022,6,19,22,30,Queen of Surrey,40,54
+3,Horseshoe Bay,Langdale,2022,6,19,23,30,Queen of Surrey,40,54
+4,Swartz Bay,Fulford Harbour,2022,6,19,9,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,19,11,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,19,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,19,15,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,19,17,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,19,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,19,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,19,5,50,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,19,6,50,Queen of Capilano,20,14
+8,Horseshoe Bay,Bowen Island,2022,6,19,8,0,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,19,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,19,10,15,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,19,11,25,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,19,12,35,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,19,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,19,15,30,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,19,16,35,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,19,17,45,Queen of Capilano,20,52
+8,Horseshoe Bay,Bowen Island,2022,6,19,18,50,Queen of Capilano,20,62
+8,Horseshoe Bay,Bowen Island,2022,6,19,20,0,Queen of Capilano,20,56
+8,Horseshoe Bay,Bowen Island,2022,6,19,21,0,Queen of Capilano,20,61
+8,Horseshoe Bay,Bowen Island,2022,6,19,22,0,Queen of Capilano,20,57
+30,Duke Point,Tsawwassen,2022,6,19,10,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,19,10,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,19,12,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,19,12,45,Coastal Inspiration,120,117
+30,Duke Point,Tsawwassen,2022,6,19,15,15,Coastal Inspiration,120,133
+30,Tsawwassen,Duke Point,2022,6,19,15,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,19,17,45,Coastal Renaissance,120,141
+30,Tsawwassen,Duke Point,2022,6,19,17,45,Coastal Inspiration,120,127
+30,Duke Point,Tsawwassen,2022,6,19,20,15,Coastal Inspiration,120,143
+30,Tsawwassen,Duke Point,2022,6,19,20,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,19,22,45,Coastal Renaissance,120,122
+30,Tsawwassen,Duke Point,2022,6,19,22,45,Coastal Inspiration,120,144
+1,Swartz Bay,Tsawwassen,2022,6,20,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,20,7,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,20,8,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,20,8,0,Queen of New Westminster,95,84
+1,Swartz Bay,Tsawwassen,2022,6,20,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,20,9,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,20,10,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,20,10,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,20,11,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,20,11,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,20,12,0,Coastal Celebration,95,93
+1,Tsawwassen,Swartz Bay,2022,6,20,12,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,20,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,20,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,6,20,14,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,20,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,20,15,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,20,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,20,16,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,20,16,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,6,20,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,20,17,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,20,18,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,20,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,20,19,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,20,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,20,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,20,21,0,Spirit of British Columbia,95,82
+1,Tsawwassen,Swartz Bay,2022,6,20,21,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,20,22,0,Coastal Celebration,95,80
+2,Departure Bay,Horseshoe Bay,2022,6,20,6,15,Queen of Cowichan,100,119
+2,Horseshoe Bay,Departure Bay,2022,6,20,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,20,8,25,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,20,8,25,Queen of Cowichan,100,129
+2,Departure Bay,Horseshoe Bay,2022,6,20,10,40,Queen of Cowichan,100,132
+2,Horseshoe Bay,Departure Bay,2022,6,20,10,40,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,20,13,0,Queen of Oak Bay,100,120
+2,Horseshoe Bay,Departure Bay,2022,6,20,13,0,Queen of Cowichan,100,130
+2,Departure Bay,Horseshoe Bay,2022,6,20,14,45,Queen of Coquitlam,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,20,15,20,Queen of Cowichan,100,130
+2,Horseshoe Bay,Departure Bay,2022,6,20,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,20,17,40,Queen of Cowichan,100,130
+2,Departure Bay,Horseshoe Bay,2022,6,20,17,55,Queen of Oak Bay,100,119
+2,Horseshoe Bay,Departure Bay,2022,6,20,19,30,Queen of Coquitlam,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,20,20,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,20,22,10,Queen of Oak Bay,100,120
+3,Langdale,Horseshoe Bay,2022,6,20,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,20,7,30,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,20,8,40,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,20,9,50,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,20,11,0,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,20,12,10,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,20,13,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,20,14,25,Queen of Surrey,40,49
+3,Langdale,Horseshoe Bay,2022,6,20,15,35,Queen of Surrey,40,53
+3,Horseshoe Bay,Langdale,2022,6,20,16,45,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,20,17,30,Queen of Coquitlam,40,42
+3,Langdale,Horseshoe Bay,2022,6,20,17,55,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,20,18,30,Queen of Coquitlam,40,44
+3,Horseshoe Bay,Langdale,2022,6,20,19,5,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,20,20,15,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,20,21,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,20,22,30,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,20,23,30,Queen of Surrey,40,39
+4,Swartz Bay,Fulford Harbour,2022,6,20,7,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,20,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,20,11,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,20,13,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,20,15,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,20,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,20,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,20,21,0,Skeena Queen,35,26
+8,Horseshoe Bay,Bowen Island,2022,6,20,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,20,6,50,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,20,8,0,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,20,9,5,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,20,10,15,Queen of Capilano,20,37
+8,Horseshoe Bay,Bowen Island,2022,6,20,11,25,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,20,12,35,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,20,14,20,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,20,15,30,Queen of Capilano,20,44
+8,Horseshoe Bay,Bowen Island,2022,6,20,16,35,Queen of Capilano,20,61
+8,Horseshoe Bay,Bowen Island,2022,6,20,17,45,Queen of Capilano,20,75
+8,Horseshoe Bay,Bowen Island,2022,6,20,20,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,20,21,0,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,20,22,0,Queen of Capilano,20,16
+30,Duke Point,Tsawwassen,2022,6,20,5,15,Coastal Inspiration,120,125
+30,Tsawwassen,Duke Point,2022,6,20,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,20,7,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,20,7,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,20,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,20,10,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,20,12,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,20,12,45,Coastal Inspiration,120,125
+30,Duke Point,Tsawwassen,2022,6,20,15,15,Coastal Inspiration,120,131
+30,Tsawwassen,Duke Point,2022,6,20,15,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,20,17,45,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,20,17,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,20,20,15,Coastal Inspiration,120,133
+30,Tsawwassen,Duke Point,2022,6,20,20,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,20,22,45,Coastal Renaissance,120,120
+30,Tsawwassen,Duke Point,2022,6,20,22,45,Coastal Inspiration,120,133
+1,Swartz Bay,Tsawwassen,2022,6,21,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,7,0,Spirit of British Columbia,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,8,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,21,8,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,9,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,21,10,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,21,10,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,21,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,11,0,Spirit of British Columbia,95,86
+1,Swartz Bay,Tsawwassen,2022,6,21,12,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,21,12,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,21,13,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,14,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,14,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,21,15,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,21,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,21,16,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,21,16,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,17,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,21,17,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,6,21,18,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,6,21,18,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,19,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,21,19,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,21,20,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,21,21,0,Spirit of British Columbia,95,80
+1,Tsawwassen,Swartz Bay,2022,6,21,21,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,21,22,0,Coastal Celebration,95,82
+2,Departure Bay,Horseshoe Bay,2022,6,21,6,15,Queen of Cowichan,100,97
+2,Horseshoe Bay,Departure Bay,2022,6,21,6,15,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,21,8,25,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,21,8,25,Queen of Cowichan,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,21,10,40,Queen of Cowichan,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,21,10,40,Queen of Oak Bay,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,21,13,0,Queen of Oak Bay,100,118
+2,Horseshoe Bay,Departure Bay,2022,6,21,13,0,Queen of Cowichan,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,21,14,45,Queen of Coquitlam,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,21,15,20,Queen of Cowichan,100,114
+2,Horseshoe Bay,Departure Bay,2022,6,21,15,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,21,17,40,Queen of Cowichan,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,21,17,55,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,21,19,30,Queen of Coquitlam,100,100
+2,Horseshoe Bay,Departure Bay,2022,6,21,20,5,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,21,22,10,Queen of Oak Bay,100,112
+3,Langdale,Horseshoe Bay,2022,6,21,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,21,7,30,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,21,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,21,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,21,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,21,12,10,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,21,13,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,21,14,25,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,21,15,35,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,21,16,45,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,21,17,30,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,21,17,55,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,21,18,25,Queen of Coquitlam,40,45
+3,Horseshoe Bay,Langdale,2022,6,21,19,5,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,21,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,21,21,25,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,21,22,30,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,21,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,21,7,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,21,9,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,21,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,21,13,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,21,15,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,21,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,21,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,21,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,21,5,50,Queen of Capilano,20,14
+8,Horseshoe Bay,Bowen Island,2022,6,21,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,21,8,0,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,21,9,5,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,21,10,15,Queen of Capilano,20,37
+8,Horseshoe Bay,Bowen Island,2022,6,21,11,25,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,21,12,35,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,21,14,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,21,15,30,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,21,16,35,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,21,17,45,Queen of Capilano,20,43
+8,Horseshoe Bay,Bowen Island,2022,6,21,18,50,Queen of Capilano,20,39
+8,Horseshoe Bay,Bowen Island,2022,6,21,20,0,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,21,21,0,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,21,22,0,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,21,5,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,21,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,21,7,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,21,7,45,Coastal Inspiration,120,117
+30,Duke Point,Tsawwassen,2022,6,21,10,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,21,10,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,21,12,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,21,12,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,21,15,15,Coastal Inspiration,120,131
+30,Tsawwassen,Duke Point,2022,6,21,15,15,Coastal Renaissance,120,111
+30,Duke Point,Tsawwassen,2022,6,21,17,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,21,17,45,Coastal Inspiration,120,127
+30,Duke Point,Tsawwassen,2022,6,21,20,15,Coastal Inspiration,120,131
+30,Tsawwassen,Duke Point,2022,6,21,20,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,21,22,45,Coastal Renaissance,120,124
+30,Tsawwassen,Duke Point,2022,6,21,22,45,Coastal Inspiration,120,128
+1,Swartz Bay,Tsawwassen,2022,6,22,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,22,7,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,22,8,0,Coastal Celebration,95,89
+1,Tsawwassen,Swartz Bay,2022,6,22,8,0,Queen of New Westminster,95,89
+1,Swartz Bay,Tsawwassen,2022,6,22,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,22,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,22,10,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,22,10,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,22,11,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,6,22,11,0,Spirit of British Columbia,95,89
+1,Swartz Bay,Tsawwassen,2022,6,22,12,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,22,12,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,22,13,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,22,13,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,22,14,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,6,22,14,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,22,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,22,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,22,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,22,17,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,6,22,17,0,Spirit of Vancouver Island,95,97
+1,Tsawwassen,Swartz Bay,2022,6,22,18,0,Coastal Celebration,95,82
+1,Tsawwassen,Swartz Bay,2022,6,22,19,0,Spirit of British Columbia,95,86
+1,Swartz Bay,Tsawwassen,2022,6,22,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,22,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,6,22,22,0,Coastal Celebration,95,84
+2,Departure Bay,Horseshoe Bay,2022,6,22,6,15,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,22,6,15,Queen of Oak Bay,100,104
+2,Departure Bay,Horseshoe Bay,2022,6,22,8,25,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,22,8,25,Queen of Cowichan,100,119
+2,Departure Bay,Horseshoe Bay,2022,6,22,10,40,Queen of Cowichan,100,115
+2,Horseshoe Bay,Departure Bay,2022,6,22,10,40,Queen of Oak Bay,100,122
+2,Departure Bay,Horseshoe Bay,2022,6,22,13,0,Queen of Oak Bay,100,118
+2,Horseshoe Bay,Departure Bay,2022,6,22,13,0,Queen of Cowichan,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,22,14,45,Queen of Coquitlam,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,22,15,20,Queen of Cowichan,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,22,15,45,Queen of Oak Bay,100,113
+2,Horseshoe Bay,Departure Bay,2022,6,22,17,40,Queen of Cowichan,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,22,17,55,Queen of Oak Bay,100,121
+2,Horseshoe Bay,Departure Bay,2022,6,22,19,30,Queen of Coquitlam,100,96
+2,Horseshoe Bay,Departure Bay,2022,6,22,20,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,22,22,10,Queen of Oak Bay,100,113
+3,Langdale,Horseshoe Bay,2022,6,22,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,22,7,30,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,22,8,40,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,22,9,50,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,22,11,0,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,22,12,10,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,22,13,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,22,14,25,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,22,15,35,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,22,16,45,Queen of Surrey,40,47
+3,Horseshoe Bay,Langdale,2022,6,22,17,30,Queen of Coquitlam,40,43
+3,Langdale,Horseshoe Bay,2022,6,22,17,55,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,22,18,25,Queen of Coquitlam,40,41
+3,Horseshoe Bay,Langdale,2022,6,22,19,5,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,22,20,15,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,22,21,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,22,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,22,23,30,Queen of Surrey,40,45
+4,Swartz Bay,Fulford Harbour,2022,6,22,7,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,22,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,22,11,0,Skeena Queen,35,26
+4,Swartz Bay,Fulford Harbour,2022,6,22,13,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,22,15,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,22,17,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,22,19,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,22,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,22,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,22,6,50,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,22,8,0,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,22,9,5,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,22,10,15,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,22,11,25,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,22,12,35,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,22,14,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,22,15,30,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,22,16,35,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,22,17,45,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,22,18,50,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,22,20,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,22,21,0,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,22,22,0,Queen of Capilano,20,22
+30,Duke Point,Tsawwassen,2022,6,22,5,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,22,5,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,22,7,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,22,7,45,Coastal Inspiration,120,115
+30,Duke Point,Tsawwassen,2022,6,22,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,22,10,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,22,12,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,22,12,45,Coastal Inspiration,120,119
+30,Duke Point,Tsawwassen,2022,6,22,15,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,22,15,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,22,17,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,22,17,45,Coastal Inspiration,120,125
+30,Duke Point,Tsawwassen,2022,6,22,20,15,Coastal Inspiration,120,119
+30,Tsawwassen,Duke Point,2022,6,22,20,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,22,22,45,Coastal Renaissance,120,122
+30,Tsawwassen,Duke Point,2022,6,22,22,45,Coastal Inspiration,120,121
+1,Swartz Bay,Tsawwassen,2022,6,23,6,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,23,7,0,Spirit of Vancouver Island,95,116
+1,Tsawwassen,Swartz Bay,2022,6,23,7,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,23,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,23,9,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,6,23,9,0,Spirit of Vancouver Island,95,118
+1,Swartz Bay,Tsawwassen,2022,6,23,10,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,6,23,10,0,Queen of New Westminster,95,102
+1,Swartz Bay,Tsawwassen,2022,6,23,11,0,Spirit of Vancouver Island,95,114
+1,Tsawwassen,Swartz Bay,2022,6,23,11,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,23,12,0,Queen of New Westminster,95,104
+1,Tsawwassen,Swartz Bay,2022,6,23,12,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,23,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,23,13,0,Spirit of Vancouver Island,95,112
+1,Swartz Bay,Tsawwassen,2022,6,23,14,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,23,14,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,23,15,0,Spirit of Vancouver Island,95,114
+1,Tsawwassen,Swartz Bay,2022,6,23,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,23,16,0,Queen of New Westminster,95,98
+1,Tsawwassen,Swartz Bay,2022,6,23,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,23,17,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,23,17,0,Spirit of Vancouver Island,95,106
+1,Swartz Bay,Tsawwassen,2022,6,23,18,0,Coastal Celebration,95,102
+1,Swartz Bay,Tsawwassen,2022,6,23,19,0,Spirit of Vancouver Island,95,116
+1,Tsawwassen,Swartz Bay,2022,6,23,19,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,23,20,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,23,21,0,Spirit of British Columbia,95,86
+1,Tsawwassen,Swartz Bay,2022,6,23,21,0,Spirit of Vancouver Island,95,99
+2,Departure Bay,Horseshoe Bay,2022,6,23,6,25,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,23,6,25,Queen of Oak Bay,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,23,7,40,Queen of Alberni,100,134
+2,Departure Bay,Horseshoe Bay,2022,6,23,8,45,Queen of Oak Bay,100,123
+2,Horseshoe Bay,Departure Bay,2022,6,23,8,45,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,23,10,0,Queen of Alberni,100,136
+2,Departure Bay,Horseshoe Bay,2022,6,23,11,5,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,23,11,5,Queen of Oak Bay,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,23,12,25,Queen of Alberni,100,127
+2,Departure Bay,Horseshoe Bay,2022,6,23,13,25,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,23,13,25,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,23,14,45,Queen of Alberni,100,125
+2,Departure Bay,Horseshoe Bay,2022,6,23,15,55,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,23,15,55,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,23,17,0,Queen of Alberni,100,128
+2,Departure Bay,Horseshoe Bay,2022,6,23,18,15,Queen of Oak Bay,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,23,18,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,23,19,20,Queen of Alberni,100,126
+2,Departure Bay,Horseshoe Bay,2022,6,23,20,30,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,23,20,30,Queen of Oak Bay,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,23,22,40,Queen of Oak Bay,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,23,22,40,Queen of Cowichan,100,104
+3,Langdale,Horseshoe Bay,2022,6,23,6,20,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,23,7,30,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,23,8,40,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,23,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,23,11,0,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,23,11,45,Queen of Coquitlam,40,39
+3,Horseshoe Bay,Langdale,2022,6,23,12,10,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,23,12,55,Queen of Coquitlam,40,45
+3,Langdale,Horseshoe Bay,2022,6,23,13,15,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,23,14,5,Queen of Coquitlam,40,37
+3,Horseshoe Bay,Langdale,2022,6,23,14,25,Queen of Surrey,40,46
+3,Horseshoe Bay,Langdale,2022,6,23,15,15,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,23,15,35,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,23,16,20,Queen of Coquitlam,40,38
+3,Horseshoe Bay,Langdale,2022,6,23,16,45,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,23,17,30,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,23,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,23,19,5,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,23,20,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,23,21,25,Queen of Surrey,40,50
+3,Langdale,Horseshoe Bay,2022,6,23,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,23,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,23,7,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,23,9,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,23,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,23,13,0,Skeena Queen,35,42
+4,Swartz Bay,Fulford Harbour,2022,6,23,15,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,23,17,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,23,19,0,Skeena Queen,35,42
+4,Swartz Bay,Fulford Harbour,2022,6,23,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,23,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,23,6,50,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,23,8,0,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,23,9,5,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,23,10,10,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,23,11,15,Queen of Capilano,20,43
+8,Horseshoe Bay,Bowen Island,2022,6,23,12,40,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,23,13,55,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,23,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,23,16,40,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,23,17,45,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,23,18,50,Queen of Capilano,20,41
+8,Horseshoe Bay,Bowen Island,2022,6,23,19,50,Queen of Capilano,20,44
+8,Horseshoe Bay,Bowen Island,2022,6,23,21,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,23,22,20,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,23,5,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,23,5,15,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,23,7,45,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,23,7,45,Coastal Inspiration,120,127
+30,Duke Point,Tsawwassen,2022,6,23,10,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,23,10,15,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,23,12,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,23,12,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,23,15,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,23,15,15,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,23,17,45,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,23,17,45,Coastal Inspiration,120,131
+30,Duke Point,Tsawwassen,2022,6,23,20,15,Coastal Inspiration,120,125
+30,Tsawwassen,Duke Point,2022,6,23,20,15,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,23,22,45,Coastal Renaissance,120,118
+30,Tsawwassen,Duke Point,2022,6,23,22,45,Coastal Inspiration,120,139
+1,Swartz Bay,Tsawwassen,2022,6,24,6,0,Coastal Celebration,95,112
+1,Swartz Bay,Tsawwassen,2022,6,24,7,0,Spirit of Vancouver Island,95,96
+1,Tsawwassen,Swartz Bay,2022,6,24,7,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,24,8,0,Coastal Celebration,95,97
+1,Swartz Bay,Tsawwassen,2022,6,24,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,24,9,0,Spirit of Vancouver Island,95,95
+1,Swartz Bay,Tsawwassen,2022,6,24,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,24,10,0,Queen of New Westminster,95,93
+1,Swartz Bay,Tsawwassen,2022,6,24,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,24,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,24,12,0,Queen of New Westminster,95,84
+1,Tsawwassen,Swartz Bay,2022,6,24,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,24,13,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,24,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,24,14,0,Coastal Celebration,95,92
+1,Tsawwassen,Swartz Bay,2022,6,24,14,0,Queen of New Westminster,95,88
+1,Swartz Bay,Tsawwassen,2022,6,24,15,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,24,15,0,Spirit of British Columbia,95,100
+1,Swartz Bay,Tsawwassen,2022,6,24,16,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,24,16,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,24,17,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,6,24,17,0,Spirit of Vancouver Island,95,104
+1,Swartz Bay,Tsawwassen,2022,6,24,18,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,24,19,0,Spirit of Vancouver Island,95,116
+1,Tsawwassen,Swartz Bay,2022,6,24,19,0,Spirit of British Columbia,95,104
+1,Tsawwassen,Swartz Bay,2022,6,24,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,24,21,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,24,21,0,Spirit of Vancouver Island,95,106
+2,Departure Bay,Horseshoe Bay,2022,6,24,6,25,Queen of Cowichan,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,24,6,25,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,24,7,40,Queen of Alberni,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,24,8,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,24,8,45,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,24,10,0,Queen of Alberni,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,24,11,5,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,24,11,5,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,24,12,25,Queen of Alberni,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,24,13,25,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,24,13,25,Queen of Cowichan,100,115
+2,Horseshoe Bay,Departure Bay,2022,6,24,14,45,Queen of Alberni,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,24,15,55,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,24,15,55,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,24,17,0,Queen of Alberni,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,24,18,15,Queen of Oak Bay,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,24,18,15,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,24,19,20,Queen of Alberni,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,24,20,30,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,24,20,30,Queen of Oak Bay,100,100
+2,Departure Bay,Horseshoe Bay,2022,6,24,22,40,Queen of Oak Bay,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,24,22,40,Queen of Cowichan,100,109
+3,Langdale,Horseshoe Bay,2022,6,24,6,20,Queen of Surrey,40,192
+3,Horseshoe Bay,Langdale,2022,6,24,7,30,Queen of Surrey,40,1011
+3,Langdale,Horseshoe Bay,2022,6,24,8,40,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,24,9,30,Queen of Coquitlam,40,52
+3,Horseshoe Bay,Langdale,2022,6,24,9,50,Queen of Surrey,40,54
+3,Horseshoe Bay,Langdale,2022,6,24,10,40,Queen of Coquitlam,40,48
+3,Langdale,Horseshoe Bay,2022,6,24,11,0,Queen of Surrey,40,52
+3,Langdale,Horseshoe Bay,2022,6,24,11,45,Queen of Coquitlam,40,45
+3,Horseshoe Bay,Langdale,2022,6,24,12,10,Queen of Surrey,40,48
+3,Horseshoe Bay,Langdale,2022,6,24,12,55,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,24,13,15,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,24,14,5,Queen of Coquitlam,40,39
+3,Horseshoe Bay,Langdale,2022,6,24,14,25,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,24,15,15,Queen of Coquitlam,40,41
+3,Langdale,Horseshoe Bay,2022,6,24,15,35,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,24,16,20,Queen of Coquitlam,40,38
+3,Horseshoe Bay,Langdale,2022,6,24,16,45,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,24,17,30,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,24,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,24,19,5,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,24,20,15,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,24,21,25,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,24,22,30,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,24,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,24,7,0,Skeena Queen,35,1039
+4,Swartz Bay,Fulford Harbour,2022,6,24,9,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,24,11,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,24,13,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,24,15,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,24,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,24,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,24,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,24,5,50,Queen of Capilano,20,146
+8,Horseshoe Bay,Bowen Island,2022,6,24,6,50,Queen of Capilano,20,86
+8,Horseshoe Bay,Bowen Island,2022,6,24,8,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,24,9,5,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,24,10,10,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,24,11,15,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,24,12,40,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,24,13,55,Queen of Capilano,20,25
+8,Horseshoe Bay,Bowen Island,2022,6,24,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,24,16,40,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,24,17,45,Queen of Capilano,20,39
+8,Horseshoe Bay,Bowen Island,2022,6,24,18,50,Queen of Capilano,20,46
+8,Horseshoe Bay,Bowen Island,2022,6,24,19,50,Queen of Capilano,20,50
+8,Horseshoe Bay,Bowen Island,2022,6,24,21,20,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,24,22,20,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,24,5,15,Coastal Inspiration,120,157
+30,Tsawwassen,Duke Point,2022,6,24,5,15,Coastal Renaissance,120,417
+30,Duke Point,Tsawwassen,2022,6,24,7,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,24,7,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,24,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,24,10,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,24,12,45,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,24,12,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,24,15,15,Coastal Inspiration,120,125
+30,Tsawwassen,Duke Point,2022,6,24,15,15,Coastal Renaissance,120,119
+30,Duke Point,Tsawwassen,2022,6,24,17,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,24,17,45,Coastal Inspiration,120,129
+30,Duke Point,Tsawwassen,2022,6,24,20,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,24,20,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,24,22,45,Coastal Renaissance,120,120
+30,Tsawwassen,Duke Point,2022,6,24,22,45,Coastal Inspiration,120,127
+1,Swartz Bay,Tsawwassen,2022,6,25,6,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,25,7,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,25,8,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,25,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,25,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,10,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,6,25,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,11,0,Spirit of Vancouver Island,95,98
+1,Tsawwassen,Swartz Bay,2022,6,25,11,0,Spirit of British Columbia,95,94
+1,Swartz Bay,Tsawwassen,2022,6,25,12,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,6,25,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,13,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,25,13,0,Spirit of Vancouver Island,95,99
+1,Swartz Bay,Tsawwassen,2022,6,25,14,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,25,14,0,Queen of New Westminster,95,86
+1,Swartz Bay,Tsawwassen,2022,6,25,15,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,25,15,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,16,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,25,16,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,25,17,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,25,17,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,25,18,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,25,19,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,25,19,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,25,20,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,25,21,0,Spirit of British Columbia,95,84
+1,Tsawwassen,Swartz Bay,2022,6,25,21,0,Spirit of Vancouver Island,95,83
+2,Departure Bay,Horseshoe Bay,2022,6,25,6,25,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,25,6,25,Queen of Oak Bay,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,25,7,40,Queen of Alberni,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,25,8,45,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,25,8,45,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,25,10,0,Queen of Alberni,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,25,11,5,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,25,11,5,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,25,12,25,Queen of Alberni,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,25,13,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,25,13,25,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,25,14,45,Queen of Alberni,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,25,15,55,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,25,15,55,Queen of Oak Bay,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,25,18,15,Queen of Oak Bay,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,25,18,15,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,25,20,30,Queen of Oak Bay,100,114
+2,Departure Bay,Horseshoe Bay,2022,6,25,22,40,Queen of Oak Bay,100,109
+3,Langdale,Horseshoe Bay,2022,6,25,6,20,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,25,7,5,Queen of Coquitlam,40,39
+3,Horseshoe Bay,Langdale,2022,6,25,7,30,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,25,8,20,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,25,8,40,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,25,9,30,Queen of Coquitlam,40,44
+3,Horseshoe Bay,Langdale,2022,6,25,9,50,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,25,10,40,Queen of Coquitlam,40,38
+3,Langdale,Horseshoe Bay,2022,6,25,11,0,Queen of Surrey,40,38
+3,Langdale,Horseshoe Bay,2022,6,25,11,45,Queen of Coquitlam,40,39
+3,Horseshoe Bay,Langdale,2022,6,25,12,10,Queen of Surrey,40,36
+3,Horseshoe Bay,Langdale,2022,6,25,12,55,Queen of Coquitlam,40,39
+3,Langdale,Horseshoe Bay,2022,6,25,13,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,25,14,25,Queen of Surrey,40,39
+3,Langdale,Horseshoe Bay,2022,6,25,15,35,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,25,16,45,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,25,17,55,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,25,19,5,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,25,20,15,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,25,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,25,22,30,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,25,23,30,Queen of Surrey,40,41
+4,Swartz Bay,Fulford Harbour,2022,6,25,7,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,25,9,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,25,11,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,25,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,25,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,25,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,25,19,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,25,21,0,Skeena Queen,35,32
+8,Horseshoe Bay,Bowen Island,2022,6,25,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,25,6,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,25,8,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,25,9,5,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,25,10,10,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,25,11,15,Queen of Capilano,20,47
+8,Horseshoe Bay,Bowen Island,2022,6,25,12,40,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,25,13,55,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,25,15,20,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,25,16,40,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,25,17,45,Queen of Capilano,20,31
+8,Horseshoe Bay,Bowen Island,2022,6,25,18,50,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,25,21,20,Queen of Capilano,20,23
+8,Horseshoe Bay,Bowen Island,2022,6,25,22,20,Queen of Capilano,20,24
+30,Duke Point,Tsawwassen,2022,6,25,5,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,25,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,25,7,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,25,7,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,25,10,15,Coastal Inspiration,120,125
+30,Tsawwassen,Duke Point,2022,6,25,10,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,25,12,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,25,12,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,25,15,15,Coastal Inspiration,120,122
+30,Tsawwassen,Duke Point,2022,6,25,15,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,25,17,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,25,17,45,Coastal Inspiration,120,115
+1,Swartz Bay,Tsawwassen,2022,6,26,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,26,7,0,Spirit of British Columbia,95,96
+1,Swartz Bay,Tsawwassen,2022,6,26,8,0,Coastal Celebration,95,105
+1,Swartz Bay,Tsawwassen,2022,6,26,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,26,9,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,26,9,55,Salish Eagle,95,191
+1,Tsawwassen,Swartz Bay,2022,6,26,10,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,6,26,11,0,Spirit of Vancouver Island,95,89
+1,Tsawwassen,Swartz Bay,2022,6,26,11,0,Spirit of British Columbia,95,97
+1,Swartz Bay,Tsawwassen,2022,6,26,12,0,Coastal Celebration,95,100
+1,Tsawwassen,Swartz Bay,2022,6,26,12,0,Queen of New Westminster,95,100
+1,Swartz Bay,Tsawwassen,2022,6,26,13,0,Spirit of British Columbia,95,108
+1,Tsawwassen,Swartz Bay,2022,6,26,13,0,Spirit of Vancouver Island,95,97
+1,Swartz Bay,Tsawwassen,2022,6,26,14,0,Queen of New Westminster,95,97
+1,Tsawwassen,Swartz Bay,2022,6,26,14,0,Coastal Celebration,95,97
+1,Swartz Bay,Tsawwassen,2022,6,26,15,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,26,15,0,Spirit of British Columbia,95,117
+1,Swartz Bay,Tsawwassen,2022,6,26,16,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,6,26,16,0,Queen of New Westminster,95,91
+1,Swartz Bay,Tsawwassen,2022,6,26,17,0,Spirit of British Columbia,95,119
+1,Tsawwassen,Swartz Bay,2022,6,26,17,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,26,18,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,26,18,0,Coastal Celebration,95,88
+1,Swartz Bay,Tsawwassen,2022,6,26,19,0,Spirit of Vancouver Island,95,99
+1,Tsawwassen,Swartz Bay,2022,6,26,19,0,Spirit of British Columbia,95,121
+1,Swartz Bay,Tsawwassen,2022,6,26,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,26,21,0,Spirit of British Columbia,95,113
+1,Tsawwassen,Swartz Bay,2022,6,26,21,0,Spirit of Vancouver Island,95,97
+1,Tsawwassen,Swartz Bay,2022,6,26,22,0,Coastal Celebration,95,80
+2,Departure Bay,Horseshoe Bay,2022,6,26,6,25,Queen of Cowichan,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,26,6,25,Queen of Oak Bay,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,26,8,45,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,26,8,45,Queen of Cowichan,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,26,11,5,Queen of Cowichan,100,106
+2,Horseshoe Bay,Departure Bay,2022,6,26,11,5,Queen of Oak Bay,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,26,12,25,Queen of Alberni,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,26,13,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,26,13,25,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,26,14,45,Queen of Alberni,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,26,15,55,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,26,15,55,Queen of Oak Bay,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,26,17,0,Queen of Alberni,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,26,18,15,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,26,18,15,Queen of Cowichan,100,110
+2,Horseshoe Bay,Departure Bay,2022,6,26,19,20,Queen of Alberni,100,104
+2,Departure Bay,Horseshoe Bay,2022,6,26,20,30,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,26,20,30,Queen of Oak Bay,100,101
+2,Departure Bay,Horseshoe Bay,2022,6,26,21,30,Queen of Alberni,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,26,22,40,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,26,22,40,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,26,23,40,Queen of Alberni,100,102
+3,Langdale,Horseshoe Bay,2022,6,26,6,20,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,26,7,30,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,26,8,40,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,26,9,50,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,26,11,0,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,26,11,45,Queen of Coquitlam,40,44
+3,Horseshoe Bay,Langdale,2022,6,26,12,10,Queen of Surrey,40,49
+3,Horseshoe Bay,Langdale,2022,6,26,12,55,Queen of Coquitlam,40,37
+3,Langdale,Horseshoe Bay,2022,6,26,13,15,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,26,14,5,Queen of Coquitlam,40,43
+3,Horseshoe Bay,Langdale,2022,6,26,14,25,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,26,15,15,Queen of Coquitlam,40,41
+3,Langdale,Horseshoe Bay,2022,6,26,15,35,Queen of Surrey,40,46
+3,Langdale,Horseshoe Bay,2022,6,26,16,20,Queen of Coquitlam,40,42
+3,Horseshoe Bay,Langdale,2022,6,26,16,45,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,26,17,30,Queen of Coquitlam,40,37
+3,Langdale,Horseshoe Bay,2022,6,26,17,55,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,26,18,45,Queen of Coquitlam,40,43
+3,Horseshoe Bay,Langdale,2022,6,26,19,5,Queen of Surrey,40,49
+3,Langdale,Horseshoe Bay,2022,6,26,20,15,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,26,21,25,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,26,22,30,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,26,23,30,Queen of Surrey,40,42
+4,Swartz Bay,Fulford Harbour,2022,6,26,9,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,26,11,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,26,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,26,15,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,26,17,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,26,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,26,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,26,5,50,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,26,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,26,8,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,26,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,26,10,10,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,26,11,15,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,26,12,40,Queen of Capilano,20,28
+8,Horseshoe Bay,Bowen Island,2022,6,26,13,55,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,26,15,20,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,26,16,40,Queen of Capilano,20,19
+8,Horseshoe Bay,Bowen Island,2022,6,26,17,45,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,26,18,50,Queen of Capilano,20,38
+8,Horseshoe Bay,Bowen Island,2022,6,26,19,50,Queen of Capilano,20,42
+8,Horseshoe Bay,Bowen Island,2022,6,26,21,20,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,26,22,20,Queen of Capilano,20,18
+30,Duke Point,Tsawwassen,2022,6,26,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,26,10,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,26,12,45,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,26,12,45,Coastal Inspiration,120,122
+30,Duke Point,Tsawwassen,2022,6,26,15,15,Coastal Inspiration,120,169
+30,Tsawwassen,Duke Point,2022,6,26,15,15,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,26,17,45,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,26,17,45,Coastal Inspiration,120,165
+30,Duke Point,Tsawwassen,2022,6,26,20,15,Coastal Inspiration,120,169
+30,Tsawwassen,Duke Point,2022,6,26,20,15,Coastal Renaissance,120,118
+30,Duke Point,Tsawwassen,2022,6,26,22,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,26,22,45,Coastal Inspiration,120,181
+1,Swartz Bay,Tsawwassen,2022,6,27,6,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,27,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,27,7,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,27,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,27,9,0,Spirit of British Columbia,95,96
+1,Tsawwassen,Swartz Bay,2022,6,27,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,27,10,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,27,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,27,11,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,27,11,0,Spirit of British Columbia,95,98
+1,Swartz Bay,Tsawwassen,2022,6,27,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,27,12,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,27,13,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,27,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,27,14,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,6,27,14,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,6,27,15,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,27,15,0,Spirit of British Columbia,95,108
+1,Swartz Bay,Tsawwassen,2022,6,27,16,0,Queen of New Westminster,95,82
+1,Tsawwassen,Swartz Bay,2022,6,27,16,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,27,17,0,Spirit of British Columbia,95,106
+1,Tsawwassen,Swartz Bay,2022,6,27,17,0,Spirit of Vancouver Island,95,86
+1,Swartz Bay,Tsawwassen,2022,6,27,18,0,Coastal Celebration,95,94
+1,Swartz Bay,Tsawwassen,2022,6,27,19,0,Spirit of Vancouver Island,95,83
+1,Tsawwassen,Swartz Bay,2022,6,27,19,0,Spirit of British Columbia,95,112
+1,Tsawwassen,Swartz Bay,2022,6,27,20,0,Coastal Celebration,95,148
+1,Swartz Bay,Tsawwassen,2022,6,27,21,0,Spirit of British Columbia,95,102
+1,Tsawwassen,Swartz Bay,2022,6,27,21,0,Spirit of Vancouver Island,95,102
+2,Departure Bay,Horseshoe Bay,2022,6,27,6,25,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,27,6,25,Queen of Oak Bay,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,27,7,40,Queen of Alberni,100,110
+2,Departure Bay,Horseshoe Bay,2022,6,27,8,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,27,8,45,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,27,10,0,Queen of Alberni,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,27,11,5,Queen of Cowichan,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,27,11,5,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,27,12,25,Queen of Alberni,100,99
+2,Departure Bay,Horseshoe Bay,2022,6,27,13,25,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,27,13,25,Queen of Cowichan,100,115
+2,Horseshoe Bay,Departure Bay,2022,6,27,14,45,Queen of Alberni,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,27,15,55,Queen of Cowichan,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,27,15,55,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,27,17,0,Queen of Alberni,100,116
+2,Departure Bay,Horseshoe Bay,2022,6,27,18,15,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,27,18,15,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,27,19,20,Queen of Alberni,100,108
+2,Departure Bay,Horseshoe Bay,2022,6,27,20,30,Queen of Cowichan,100,104
+2,Horseshoe Bay,Departure Bay,2022,6,27,20,30,Queen of Oak Bay,100,102
+2,Departure Bay,Horseshoe Bay,2022,6,27,22,40,Queen of Oak Bay,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,27,22,40,Queen of Cowichan,100,101
+3,Langdale,Horseshoe Bay,2022,6,27,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,27,7,30,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,27,8,40,Queen of Surrey,40,48
+3,Horseshoe Bay,Langdale,2022,6,27,9,50,Queen of Surrey,40,60
+3,Langdale,Horseshoe Bay,2022,6,27,11,0,Queen of Surrey,40,58
+3,Langdale,Horseshoe Bay,2022,6,27,11,45,Queen of Coquitlam,40,51
+3,Horseshoe Bay,Langdale,2022,6,27,12,10,Queen of Surrey,40,56
+3,Horseshoe Bay,Langdale,2022,6,27,12,55,Queen of Coquitlam,40,47
+3,Langdale,Horseshoe Bay,2022,6,27,13,15,Queen of Surrey,40,59
+3,Langdale,Horseshoe Bay,2022,6,27,14,5,Queen of Coquitlam,40,47
+3,Horseshoe Bay,Langdale,2022,6,27,14,25,Queen of Surrey,40,56
+3,Horseshoe Bay,Langdale,2022,6,27,15,15,Queen of Coquitlam,40,170
+3,Langdale,Horseshoe Bay,2022,6,27,15,35,Queen of Surrey,40,55
+3,Langdale,Horseshoe Bay,2022,6,27,16,20,Queen of Coquitlam,40,42
+3,Horseshoe Bay,Langdale,2022,6,27,16,45,Queen of Surrey,40,60
+3,Horseshoe Bay,Langdale,2022,6,27,17,30,Queen of Coquitlam,40,35
+3,Langdale,Horseshoe Bay,2022,6,27,17,55,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,27,19,5,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,27,20,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,27,21,25,Queen of Surrey,40,47
+3,Langdale,Horseshoe Bay,2022,6,27,22,30,Queen of Surrey,40,43
+3,Horseshoe Bay,Langdale,2022,6,27,23,30,Queen of Surrey,40,40
+4,Swartz Bay,Fulford Harbour,2022,6,27,7,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,27,9,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,27,11,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,27,13,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,27,15,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,27,17,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,27,19,0,Skeena Queen,35,28
+4,Swartz Bay,Fulford Harbour,2022,6,27,21,0,Skeena Queen,35,28
+8,Horseshoe Bay,Bowen Island,2022,6,27,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,27,6,50,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,27,8,0,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,27,9,5,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,27,10,10,Queen of Capilano,20,21
+8,Horseshoe Bay,Bowen Island,2022,6,27,11,15,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,27,12,40,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,27,13,55,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,27,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,27,16,40,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,27,17,45,Queen of Capilano,20,29
+8,Horseshoe Bay,Bowen Island,2022,6,27,18,50,Queen of Capilano,20,35
+8,Horseshoe Bay,Bowen Island,2022,6,27,19,50,Queen of Capilano,20,37
+8,Horseshoe Bay,Bowen Island,2022,6,27,21,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,27,22,20,Queen of Capilano,20,20
+30,Duke Point,Tsawwassen,2022,6,27,5,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,27,5,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,27,7,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,27,7,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,27,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,27,10,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,27,12,45,Coastal Renaissance,120,121
+30,Tsawwassen,Duke Point,2022,6,27,12,45,Coastal Inspiration,120,117
+30,Duke Point,Tsawwassen,2022,6,27,15,15,Coastal Inspiration,120,122
+30,Tsawwassen,Duke Point,2022,6,27,15,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,27,17,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,27,17,45,Coastal Inspiration,120,129
+30,Duke Point,Tsawwassen,2022,6,27,20,15,Coastal Inspiration,120,128
+30,Tsawwassen,Duke Point,2022,6,27,20,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,27,22,45,Coastal Renaissance,120,123
+30,Tsawwassen,Duke Point,2022,6,27,22,45,Coastal Inspiration,120,136
+1,Swartz Bay,Tsawwassen,2022,6,28,6,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,28,7,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,7,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,28,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,28,9,0,Spirit of Vancouver Island,95,104
+1,Swartz Bay,Tsawwassen,2022,6,28,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,28,10,0,Queen of New Westminster,95,96
+1,Swartz Bay,Tsawwassen,2022,6,28,11,0,Spirit of Vancouver Island,95,94
+1,Tsawwassen,Swartz Bay,2022,6,28,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,28,12,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,6,28,12,0,Coastal Celebration,95,98
+1,Swartz Bay,Tsawwassen,2022,6,28,13,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,13,0,Spirit of Vancouver Island,95,94
+1,Swartz Bay,Tsawwassen,2022,6,28,14,0,Coastal Celebration,95,94
+1,Tsawwassen,Swartz Bay,2022,6,28,14,0,Queen of New Westminster,95,94
+1,Swartz Bay,Tsawwassen,2022,6,28,15,0,Spirit of Vancouver Island,95,86
+1,Tsawwassen,Swartz Bay,2022,6,28,15,0,Spirit of British Columbia,95,92
+1,Swartz Bay,Tsawwassen,2022,6,28,16,0,Queen of New Westminster,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,28,17,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,17,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,28,18,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,28,19,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,19,0,Spirit of British Columbia,95,88
+1,Tsawwassen,Swartz Bay,2022,6,28,20,0,Coastal Celebration,95,82
+1,Swartz Bay,Tsawwassen,2022,6,28,21,0,Spirit of British Columbia,95,84
+1,Tsawwassen,Swartz Bay,2022,6,28,21,0,Spirit of Vancouver Island,95,83
+2,Departure Bay,Horseshoe Bay,2022,6,28,6,25,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,28,6,25,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,28,8,45,Queen of Oak Bay,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,28,8,45,Queen of Cowichan,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,28,11,5,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,28,11,5,Queen of Oak Bay,100,117
+2,Departure Bay,Horseshoe Bay,2022,6,28,12,25,Queen of Alberni,100,151
+2,Departure Bay,Horseshoe Bay,2022,6,28,13,25,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,28,13,25,Queen of Cowichan,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,28,15,55,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,28,15,55,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,28,18,15,Queen of Oak Bay,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,28,18,15,Queen of Cowichan,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,28,20,30,Queen of Cowichan,100,102
+2,Horseshoe Bay,Departure Bay,2022,6,28,20,30,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,28,22,40,Queen of Oak Bay,100,108
+2,Horseshoe Bay,Departure Bay,2022,6,28,22,40,Queen of Cowichan,100,101
+3,Langdale,Horseshoe Bay,2022,6,28,6,20,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,28,7,30,Queen of Surrey,40,37
+3,Langdale,Horseshoe Bay,2022,6,28,8,40,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,28,9,50,Queen of Surrey,40,43
+3,Langdale,Horseshoe Bay,2022,6,28,11,0,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,28,12,10,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,28,13,15,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,28,14,25,Queen of Surrey,40,48
+3,Langdale,Horseshoe Bay,2022,6,28,15,35,Queen of Surrey,40,51
+3,Horseshoe Bay,Langdale,2022,6,28,16,45,Queen of Surrey,40,60
+3,Langdale,Horseshoe Bay,2022,6,28,17,55,Queen of Surrey,40,61
+3,Horseshoe Bay,Langdale,2022,6,28,19,5,Queen of Surrey,40,63
+3,Langdale,Horseshoe Bay,2022,6,28,20,15,Queen of Surrey,40,63
+3,Horseshoe Bay,Langdale,2022,6,28,21,25,Queen of Surrey,40,63
+3,Langdale,Horseshoe Bay,2022,6,28,22,30,Queen of Surrey,40,58
+3,Horseshoe Bay,Langdale,2022,6,28,23,30,Queen of Surrey,40,59
+4,Swartz Bay,Fulford Harbour,2022,6,28,7,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,28,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,28,11,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,28,13,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,28,15,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,28,17,0,Skeena Queen,35,36
+4,Swartz Bay,Fulford Harbour,2022,6,28,19,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,28,21,0,Skeena Queen,35,30
+8,Horseshoe Bay,Bowen Island,2022,6,28,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,28,6,50,Queen of Capilano,20,26
+8,Horseshoe Bay,Bowen Island,2022,6,28,8,0,Queen of Capilano,20,32
+8,Horseshoe Bay,Bowen Island,2022,6,28,9,5,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,28,10,10,Queen of Capilano,20,64
+8,Horseshoe Bay,Bowen Island,2022,6,28,12,40,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,28,13,55,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,28,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,28,16,40,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,28,17,45,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,28,18,50,Queen of Capilano,20,43
+8,Horseshoe Bay,Bowen Island,2022,6,28,19,50,Queen of Capilano,20,46
+8,Horseshoe Bay,Bowen Island,2022,6,28,21,20,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,28,22,20,Queen of Capilano,20,20
+30,Duke Point,Tsawwassen,2022,6,28,5,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,28,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,28,7,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,28,7,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,28,10,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,28,10,15,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,28,12,45,Coastal Renaissance,120,127
+30,Tsawwassen,Duke Point,2022,6,28,12,45,Coastal Inspiration,120,122
+30,Duke Point,Tsawwassen,2022,6,28,15,15,Coastal Inspiration,120,129
+30,Tsawwassen,Duke Point,2022,6,28,15,15,Coastal Renaissance,120,125
+30,Duke Point,Tsawwassen,2022,6,28,17,45,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,28,17,45,Coastal Inspiration,120,127
+30,Duke Point,Tsawwassen,2022,6,28,20,15,Coastal Inspiration,120,125
+30,Tsawwassen,Duke Point,2022,6,28,20,15,Coastal Renaissance,120,123
+30,Duke Point,Tsawwassen,2022,6,28,22,45,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,28,22,45,Coastal Inspiration,120,132
+1,Swartz Bay,Tsawwassen,2022,6,29,6,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,29,7,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,29,8,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,29,9,0,Spirit of British Columbia,95,92
+1,Tsawwassen,Swartz Bay,2022,6,29,9,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,10,0,Coastal Celebration,95,86
+1,Tsawwassen,Swartz Bay,2022,6,29,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,11,0,Spirit of Vancouver Island,95,88
+1,Tsawwassen,Swartz Bay,2022,6,29,11,0,Spirit of British Columbia,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,12,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,29,12,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,29,13,0,Spirit of British Columbia,95,98
+1,Tsawwassen,Swartz Bay,2022,6,29,13,0,Spirit of Vancouver Island,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,14,0,Coastal Celebration,95,88
+1,Tsawwassen,Swartz Bay,2022,6,29,14,0,Queen of New Westminster,95,98
+1,Swartz Bay,Tsawwassen,2022,6,29,15,0,Spirit of Vancouver Island,95,95
+1,Tsawwassen,Swartz Bay,2022,6,29,15,0,Spirit of British Columbia,95,104
+1,Swartz Bay,Tsawwassen,2022,6,29,16,0,Queen of New Westminster,95,96
+1,Tsawwassen,Swartz Bay,2022,6,29,16,0,Coastal Celebration,95,96
+1,Swartz Bay,Tsawwassen,2022,6,29,17,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,29,17,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,6,29,18,0,Coastal Celebration,95,86
+1,Swartz Bay,Tsawwassen,2022,6,29,19,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,29,19,0,Spirit of British Columbia,95,100
+1,Tsawwassen,Swartz Bay,2022,6,29,20,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,29,21,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,29,21,0,Spirit of Vancouver Island,95,90
+2,Departure Bay,Horseshoe Bay,2022,6,29,6,25,Queen of Cowichan,100,99
+2,Horseshoe Bay,Departure Bay,2022,6,29,6,25,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,29,8,45,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,29,8,45,Queen of Cowichan,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,29,11,5,Queen of Cowichan,100,105
+2,Horseshoe Bay,Departure Bay,2022,6,29,11,5,Queen of Oak Bay,100,107
+2,Departure Bay,Horseshoe Bay,2022,6,29,13,25,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,29,13,25,Queen of Cowichan,100,102
+2,Horseshoe Bay,Departure Bay,2022,6,29,14,46,Queen of Coquitlam,100,109
+2,Departure Bay,Horseshoe Bay,2022,6,29,15,55,Queen of Cowichan,100,101
+2,Horseshoe Bay,Departure Bay,2022,6,29,15,55,Queen of Oak Bay,100,119
+2,Departure Bay,Horseshoe Bay,2022,6,29,17,0,Queen of Coquitlam,100,106
+2,Departure Bay,Horseshoe Bay,2022,6,29,18,15,Queen of Oak Bay,100,115
+2,Horseshoe Bay,Departure Bay,2022,6,29,18,15,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,29,19,20,Queen of Coquitlam,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,29,20,30,Queen of Cowichan,100,100
+2,Horseshoe Bay,Departure Bay,2022,6,29,20,30,Queen of Oak Bay,100,112
+2,Departure Bay,Horseshoe Bay,2022,6,29,22,40,Queen of Oak Bay,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,29,22,40,Queen of Cowichan,100,103
+3,Langdale,Horseshoe Bay,2022,6,29,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,29,7,30,Queen of Surrey,40,42
+3,Langdale,Horseshoe Bay,2022,6,29,8,40,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,29,9,50,Queen of Surrey,40,44
+3,Langdale,Horseshoe Bay,2022,6,29,11,0,Queen of Surrey,40,42
+3,Horseshoe Bay,Langdale,2022,6,29,12,10,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,29,13,15,Queen of Surrey,40,45
+3,Horseshoe Bay,Langdale,2022,6,29,14,25,Queen of Surrey,40,45
+3,Langdale,Horseshoe Bay,2022,6,29,15,35,Queen of Surrey,40,63
+3,Horseshoe Bay,Langdale,2022,6,29,16,45,Queen of Surrey,40,61
+3,Langdale,Horseshoe Bay,2022,6,29,17,55,Queen of Surrey,40,63
+3,Horseshoe Bay,Langdale,2022,6,29,19,5,Queen of Surrey,40,73
+3,Langdale,Horseshoe Bay,2022,6,29,20,15,Queen of Surrey,40,66
+3,Horseshoe Bay,Langdale,2022,6,29,21,25,Queen of Surrey,40,65
+3,Langdale,Horseshoe Bay,2022,6,29,22,30,Queen of Surrey,40,62
+4,Swartz Bay,Fulford Harbour,2022,6,29,7,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,29,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,29,11,0,Skeena Queen,35,40
+4,Swartz Bay,Fulford Harbour,2022,6,29,13,0,Skeena Queen,35,30
+4,Swartz Bay,Fulford Harbour,2022,6,29,15,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,29,17,0,Skeena Queen,35,46
+4,Swartz Bay,Fulford Harbour,2022,6,29,19,0,Skeena Queen,35,34
+4,Swartz Bay,Fulford Harbour,2022,6,29,21,0,Skeena Queen,35,32
+8,Horseshoe Bay,Bowen Island,2022,6,29,5,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,29,6,50,Queen of Capilano,20,22
+8,Horseshoe Bay,Bowen Island,2022,6,29,8,0,Queen of Capilano,20,24
+8,Horseshoe Bay,Bowen Island,2022,6,29,9,5,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,29,10,10,Queen of Capilano,20,36
+8,Horseshoe Bay,Bowen Island,2022,6,29,11,15,Queen of Capilano,20,45
+8,Horseshoe Bay,Bowen Island,2022,6,29,12,40,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,29,13,55,Queen of Capilano,20,27
+8,Horseshoe Bay,Bowen Island,2022,6,29,15,20,Queen of Capilano,20,20
+8,Horseshoe Bay,Bowen Island,2022,6,29,16,40,Queen of Capilano,20,17
+8,Horseshoe Bay,Bowen Island,2022,6,29,17,45,Queen of Capilano,20,34
+8,Horseshoe Bay,Bowen Island,2022,6,29,18,50,Queen of Capilano,20,50
+8,Horseshoe Bay,Bowen Island,2022,6,29,19,50,Queen of Capilano,20,50
+8,Horseshoe Bay,Bowen Island,2022,6,29,21,20,Queen of Capilano,20,15
+8,Horseshoe Bay,Bowen Island,2022,6,29,22,20,Queen of Capilano,20,26
+30,Duke Point,Tsawwassen,2022,6,29,5,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,29,5,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,29,7,45,Coastal Renaissance,120,113
+30,Tsawwassen,Duke Point,2022,6,29,7,45,Coastal Inspiration,120,117
+30,Duke Point,Tsawwassen,2022,6,29,10,15,Coastal Inspiration,120,121
+30,Tsawwassen,Duke Point,2022,6,29,10,15,Coastal Renaissance,120,111
+30,Duke Point,Tsawwassen,2022,6,29,12,45,Coastal Renaissance,120,118
+30,Tsawwassen,Duke Point,2022,6,29,12,45,Coastal Inspiration,120,118
+30,Duke Point,Tsawwassen,2022,6,29,15,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,29,15,15,Coastal Renaissance,120,115
+30,Duke Point,Tsawwassen,2022,6,29,17,45,Coastal Renaissance,120,133
+30,Tsawwassen,Duke Point,2022,6,29,17,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,29,20,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,29,20,15,Coastal Renaissance,120,141
+30,Duke Point,Tsawwassen,2022,6,29,22,45,Coastal Renaissance,120,144
+30,Tsawwassen,Duke Point,2022,6,29,22,45,Coastal Inspiration,120,127
+1,Swartz Bay,Tsawwassen,2022,6,30,6,0,Coastal Celebration,95,96
+1,Tsawwassen,Swartz Bay,2022,6,30,6,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,30,7,0,Spirit of Vancouver Island,95,90
+1,Tsawwassen,Swartz Bay,2022,6,30,7,0,Spirit of British Columbia,95,86
+1,Swartz Bay,Tsawwassen,2022,6,30,8,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,30,8,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,30,9,0,Spirit of British Columbia,95,90
+1,Tsawwassen,Swartz Bay,2022,6,30,9,0,Spirit of Vancouver Island,95,88
+1,Swartz Bay,Tsawwassen,2022,6,30,10,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,30,10,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,30,11,0,Spirit of Vancouver Island,95,92
+1,Tsawwassen,Swartz Bay,2022,6,30,11,0,Spirit of British Columbia,95,84
+1,Swartz Bay,Tsawwassen,2022,6,30,12,0,Queen of New Westminster,95,86
+1,Tsawwassen,Swartz Bay,2022,6,30,12,0,Coastal Celebration,95,90
+1,Swartz Bay,Tsawwassen,2022,6,30,13,0,Spirit of British Columbia,95,94
+1,Tsawwassen,Swartz Bay,2022,6,30,13,0,Spirit of Vancouver Island,95,96
+1,Swartz Bay,Tsawwassen,2022,6,30,14,0,Coastal Celebration,95,90
+1,Tsawwassen,Swartz Bay,2022,6,30,14,0,Queen of New Westminster,95,90
+1,Swartz Bay,Tsawwassen,2022,6,30,15,0,Spirit of Vancouver Island,95,100
+1,Tsawwassen,Swartz Bay,2022,6,30,15,0,Spirit of British Columbia,95,106
+1,Swartz Bay,Tsawwassen,2022,6,30,16,0,Queen of New Westminster,95,90
+1,Tsawwassen,Swartz Bay,2022,6,30,16,0,Coastal Celebration,95,92
+1,Swartz Bay,Tsawwassen,2022,6,30,17,0,Spirit of British Columbia,95,110
+1,Tsawwassen,Swartz Bay,2022,6,30,17,0,Spirit of Vancouver Island,95,112
+1,Swartz Bay,Tsawwassen,2022,6,30,18,0,Coastal Celebration,95,98
+1,Tsawwassen,Swartz Bay,2022,6,30,18,0,Queen of New Westminster,95,92
+1,Swartz Bay,Tsawwassen,2022,6,30,19,0,Spirit of Vancouver Island,95,112
+1,Tsawwassen,Swartz Bay,2022,6,30,19,0,Spirit of British Columbia,95,116
+1,Swartz Bay,Tsawwassen,2022,6,30,20,0,Queen of New Westminster,95,92
+1,Tsawwassen,Swartz Bay,2022,6,30,20,0,Coastal Celebration,95,104
+1,Swartz Bay,Tsawwassen,2022,6,30,21,0,Spirit of British Columbia,95,112
+1,Tsawwassen,Swartz Bay,2022,6,30,21,0,Spirit of Vancouver Island,95,121
+2,Departure Bay,Horseshoe Bay,2022,6,30,6,25,Queen of Cowichan,100,103
+2,Horseshoe Bay,Departure Bay,2022,6,30,6,25,Queen of Oak Bay,100,105
+2,Departure Bay,Horseshoe Bay,2022,6,30,8,45,Queen of Oak Bay,100,107
+2,Horseshoe Bay,Departure Bay,2022,6,30,8,45,Queen of Cowichan,100,103
+2,Departure Bay,Horseshoe Bay,2022,6,30,11,5,Queen of Cowichan,100,111
+2,Horseshoe Bay,Departure Bay,2022,6,30,11,5,Queen of Oak Bay,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,30,13,25,Queen of Oak Bay,100,127
+2,Horseshoe Bay,Departure Bay,2022,6,30,13,25,Queen of Cowichan,100,113
+2,Departure Bay,Horseshoe Bay,2022,6,30,15,55,Queen of Cowichan,100,109
+2,Horseshoe Bay,Departure Bay,2022,6,30,15,55,Queen of Oak Bay,100,119
+2,Departure Bay,Horseshoe Bay,2022,6,30,18,15,Queen of Oak Bay,100,117
+2,Horseshoe Bay,Departure Bay,2022,6,30,18,15,Queen of Cowichan,100,111
+2,Departure Bay,Horseshoe Bay,2022,6,30,20,30,Queen of Cowichan,100,112
+2,Horseshoe Bay,Departure Bay,2022,6,30,20,30,Queen of Oak Bay,100,126
+2,Departure Bay,Horseshoe Bay,2022,6,30,22,40,Queen of Oak Bay,100,133
+2,Horseshoe Bay,Departure Bay,2022,6,30,22,40,Queen of Cowichan,100,125
+3,Langdale,Horseshoe Bay,2022,6,30,6,20,Queen of Surrey,40,40
+3,Horseshoe Bay,Langdale,2022,6,30,7,30,Queen of Surrey,40,36
+3,Langdale,Horseshoe Bay,2022,6,30,8,40,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,30,9,30,Queen of Coquitlam,40,34
+3,Horseshoe Bay,Langdale,2022,6,30,9,50,Queen of Surrey,40,38
+3,Horseshoe Bay,Langdale,2022,6,30,10,40,Queen of Coquitlam,40,39
+3,Langdale,Horseshoe Bay,2022,6,30,11,0,Queen of Surrey,40,40
+3,Langdale,Horseshoe Bay,2022,6,30,11,45,Queen of Coquitlam,40,37
+3,Horseshoe Bay,Langdale,2022,6,30,12,10,Queen of Surrey,40,37
+3,Horseshoe Bay,Langdale,2022,6,30,12,55,Queen of Coquitlam,40,39
+3,Langdale,Horseshoe Bay,2022,6,30,13,15,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,30,14,5,Queen of Coquitlam,40,37
+3,Horseshoe Bay,Langdale,2022,6,30,14,25,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,30,15,15,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,30,15,35,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,30,16,20,Queen of Coquitlam,40,40
+3,Horseshoe Bay,Langdale,2022,6,30,16,45,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,30,17,30,Queen of Coquitlam,40,40
+3,Langdale,Horseshoe Bay,2022,6,30,17,55,Queen of Surrey,40,41
+3,Horseshoe Bay,Langdale,2022,6,30,19,5,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,30,20,15,Queen of Surrey,40,39
+3,Horseshoe Bay,Langdale,2022,6,30,21,25,Queen of Surrey,40,41
+3,Langdale,Horseshoe Bay,2022,6,30,22,30,Queen of Surrey,40,44
+3,Horseshoe Bay,Langdale,2022,6,30,23,30,Queen of Surrey,40,42
+4,Swartz Bay,Fulford Harbour,2022,6,30,7,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,30,9,0,Skeena Queen,35,32
+4,Swartz Bay,Fulford Harbour,2022,6,30,11,0,Skeena Queen,35,38
+4,Swartz Bay,Fulford Harbour,2022,6,30,13,0,Skeena Queen,35,52
+4,Swartz Bay,Fulford Harbour,2022,6,30,15,0,Skeena Queen,35,54
+4,Swartz Bay,Fulford Harbour,2022,6,30,17,0,Skeena Queen,35,52
+4,Swartz Bay,Fulford Harbour,2022,6,30,19,0,Skeena Queen,35,48
+4,Swartz Bay,Fulford Harbour,2022,6,30,21,0,Skeena Queen,35,44
+8,Horseshoe Bay,Bowen Island,2022,6,30,5,50,Queen of Capilano,20,16
+8,Horseshoe Bay,Bowen Island,2022,6,30,6,50,Queen of Capilano,20,18
+8,Horseshoe Bay,Bowen Island,2022,6,30,8,0,Queen of Capilano,20,15
+8,Horseshoe Bay,Bowen Island,2022,6,30,9,5,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,30,10,10,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,30,11,15,Queen of Capilano,20,47
+8,Horseshoe Bay,Bowen Island,2022,6,30,12,40,Queen of Capilano,20,33
+8,Horseshoe Bay,Bowen Island,2022,6,30,13,55,Queen of Capilano,20,40
+8,Horseshoe Bay,Bowen Island,2022,6,30,15,20,Queen of Capilano,20,44
+8,Horseshoe Bay,Bowen Island,2022,6,30,16,40,Queen of Capilano,20,41
+8,Horseshoe Bay,Bowen Island,2022,6,30,17,45,Queen of Capilano,20,47
+8,Horseshoe Bay,Bowen Island,2022,6,30,18,50,Queen of Capilano,20,51
+8,Horseshoe Bay,Bowen Island,2022,6,30,19,50,Queen of Capilano,20,59
+8,Horseshoe Bay,Bowen Island,2022,6,30,21,20,Queen of Capilano,20,30
+8,Horseshoe Bay,Bowen Island,2022,6,30,22,20,Queen of Capilano,20,24
+30,Duke Point,Tsawwassen,2022,6,30,5,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,30,5,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,30,7,45,Coastal Renaissance,120,115
+30,Tsawwassen,Duke Point,2022,6,30,7,45,Coastal Inspiration,120,123
+30,Duke Point,Tsawwassen,2022,6,30,10,15,Coastal Inspiration,120,123
+30,Tsawwassen,Duke Point,2022,6,30,10,15,Coastal Renaissance,120,113
+30,Duke Point,Tsawwassen,2022,6,30,12,45,Coastal Renaissance,120,117
+30,Tsawwassen,Duke Point,2022,6,30,12,45,Coastal Inspiration,120,121
+30,Duke Point,Tsawwassen,2022,6,30,15,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,30,15,15,Coastal Renaissance,120,121
+30,Duke Point,Tsawwassen,2022,6,30,17,45,Coastal Renaissance,120,119
+30,Tsawwassen,Duke Point,2022,6,30,17,45,Coastal Inspiration,120,127
+30,Duke Point,Tsawwassen,2022,6,30,20,15,Coastal Inspiration,120,127
+30,Tsawwassen,Duke Point,2022,6,30,20,15,Coastal Renaissance,120,117
+30,Duke Point,Tsawwassen,2022,6,30,22,45,Coastal Renaissance,120,125
+30,Tsawwassen,Duke Point,2022,6,30,22,45,Coastal Inspiration,120,134
