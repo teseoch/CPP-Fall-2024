@@ -6,7 +6,7 @@ The main objective is to implement a set of C++ functions, whose behavior is des
 ## Task (50pt)
 BC Ferries provides ferry services for a variety of ferry routes across the province. This assignment will use a collection of scheduling data to analyze various aspects of on-time performance for BC Ferries sailings.
 
-A sailing is a single journey of a single vessel from one terminal to another (for example, the 5:00pm sailing from Swartz Bay to Tsawassen on June 10, 2022). For data analysis purposes, BC Ferries might collect data on each sailing including:
+A sailing is a single journey of a single vessel from one terminal to another (for example, the 5:00pm sailing from Swartz Bay to Tsawassen on June 10, 2022). For data analysis purposes, BC Ferries might collect data on each sailing, including:
 
 - Weather conditions
 - The total number of passengers or vehicles
@@ -16,7 +16,7 @@ A sailing is a single journey of a single vessel from one terminal to another (f
 
 For this assignment, we will use a dataset cataloguing the vessel, duration and expected duration of
 each sailing (the other factors will be omitted). Note that the "expected duration" is the estimated
-time of a sailing in normal conditions (for example, the Swartz Bay to Tsawwassen route has an
+time of sailing in normal conditions (for example, the Swartz Bay to Tsawwassen route has an
 expected duration of 95 minutes).
 The actual duration may vary.
 In the provided datasets, we have computed the actual duration of each sailing based on the time between the scheduled departure of the vessel and its arrival (so, for example, if a ferry scheduled to leave at 2:00pm actually leaves
@@ -41,31 +41,45 @@ For example, the input line
 ```
 1,Swartz Bay,Tsawwassen,2022,6,10,7,0,Spirit of Vancouver Island,95,93
 ```
-describes a sailing on route number 1 which departed from Swartz Bay and sailed to Tsawwassen
+describes a sailing on route number 1, which departed from Swartz Bay and sailed to Tsawwassen
 on June 10th, 2022 (2022-06-10) at 7:00 using the vessel "Spirit of Vancouver Island". The sailing
-was expected to last 95 minutes, but took only 93 minutes.
+was expected to last 95 minutes but took only 93 minutes.
 
 Part of this assignment involves tabulating "late sailings", which we define to be any sailing for
 which actual duration >= expected duration + 5.
 In the example above, if the sailing had an actual duration of 100 minutes (or more), it would be
 classified as late.
 The `assignment_2.cpp` file contains a series of structure definitions and function prototypes for
-various operations on the dataset. Your task is to provide implementations of the required functions.
+various operations on the dataset. Your task is to implement the required functions.
 
 ### Driver Program
 A complete program has been provided in `assignment_2.cpp` which performs various analysis tasks
-using the all functions.
+using all the functions.
 
 `route_summary` - Print a summary of the on-time performance for each route in the dataset.
 
 `days` - Print a summary of the "best days" and "worst days" in the dataset. The best days
-are days with the lowest percentage of late sailings and the worst days are days with the
+are days with the lowest percentage of late sailings, and the worst days are days with the
 highest.
 
 For both of the actions specified above, the output may contain multiple records (for example, with the days action, there might be multiple days that are tied for "best", and all of them would be part of the result). Your
 implementation must produce the same set of records as the model solution, but it is not necessary
 for them to appear in the same order.
 
+### Visual Studio
+Passing comma-line arguments to Visual Studio is annoying. To run and test your code you can comment these lines
+```
+    if (argc < 3)
+    {
+        std::cout << "Usage: ./assignment_2 action input_filename" << std::endl;
+        std::cout << "       where action is either 'route_summary' or 'days'" << std::endl;
+        return 1;
+    }
+
+    std::string action{argv[1]};
+    std::string input_filename{argv[2]};
+```
+and hardcode the `action` and `input_filename`. **Remember** to undo the changes before submitting.
 
 
 ## Code Requirements
