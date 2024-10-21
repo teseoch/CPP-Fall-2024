@@ -1,6 +1,10 @@
 #include <iostream>
 #include <vector>
 
+//The "using" directive defines a new type (similar to typedef in C)
+//Note that type definitions are scoped (so a using directive inside a function
+//will only be visible from inside that function).
+
 int main()
 {
     //Create table T of integer values with 3 rows and 5 columns.
