@@ -88,7 +88,6 @@ struct InvalidTimeException
 };
 
 /* Function prototypes */
-/* Put your implementations of these functions in a2_functions.cpp */
 
 /* Functions to implement */
 
@@ -224,7 +223,6 @@ std::vector<DayStatistics> worst_days(std::vector<Sailing> const &sailings)
     /* Your Code Here */
 }
 
-/* Provided functions (already implemented in a2_functions.cpp) */
 /* You do not have to understand or modify these functions (although they
    are of the same level of difficulty as the other parts of the assignment) */
 std::vector<Sailing> read_sailings(std::string const &input_filename)
