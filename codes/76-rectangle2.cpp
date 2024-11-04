@@ -28,7 +28,7 @@ public:
     }
 
     //Contrived constructor which takes a string argument (and then ignores it)
-    Rectangle(std::string s)
+    Rectangle(const std::string &s)
     {
         std::cout << "Parameterized constructor 2" << std::endl;
         width = 10;
