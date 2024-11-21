@@ -7,11 +7,6 @@ class Fruit
 public:
     Fruit()
     {
-        std::cout << "Fruit default constructor" << std::endl;
-    }
-    virtual ~Fruit()
-    {
-        std::cout << "Fruit destructor" << std::endl;
     }
     virtual std::string get_name()
     {
@@ -24,12 +19,14 @@ public:
 };
 
 /* To do: make this the base class of Raspberry and Pumpkin
-class SeedFruit: public Fruit{
+class SeedFruit : public Fruit
+{
 public:
-
-    virtual int get_num_seeds(){
+    int get_num_seeds()
+    {
         return num_seeds;
     }
+
 private:
     int num_seeds;
 };
@@ -49,13 +46,9 @@ public:
 
     Raspberry(int seed_count)
     {
-        std::cout << "Raspberry constructor" << std::endl;
         num_seeds = seed_count;
     }
-    virtual ~Raspberry()
-    {
-        std::cout << "Raspberry destructor" << std::endl;
-    }
+
     int get_num_seeds()
     {
         return num_seeds;
