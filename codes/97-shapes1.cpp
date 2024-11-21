@@ -124,6 +124,7 @@ private:
     Circle()
     {
         std::cout << "Circle constructor 1" << std::endl;
+        name = "Circle";
     }
 
 public:
